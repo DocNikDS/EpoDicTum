@@ -2,20 +2,16 @@
 
 # B
 
-BERKSON
--------
+Example: BERKSON
+----------------
 
 ![](image/berkson.jpg)
 
 ***Joseph Berkson*** (1899-1982) - American physicist, physician and statistician.
 
-### Berkson error model: 
+### Berkson bias/paradox:
 
-Measurement random error model arising when a single surrogate value (e.g., a group mean) is assigned to all individuals in a category, such that true individual values fluctuate randomly around this fixed observed value.
-
-### Berkson paradox (collider bias):
-
-Endogenous selection bias occurring in a hospital-based study where conditioning on the common effect of hospitalization (the collider) for two or more independent conditions induces a spurious negative association between them within the study sample that is absent in the general population.
+Collider‑conditioning selection bias in hospital‑based studies where restricting the sample to hospitalized patients artificially induces a spurious inverse association between an exposure and the outcome, or a spurious positive association between two unrelated diseases, whenever the exposure, the outcome, or both independently influence the probability of hospital admission.
 
 # C
 
@@ -29,32 +25,11 @@ Endogenous selection bias occurring in a hospital-based study where conditioning
 
 # H
 
-HILL
-----
-
-![](image/hill.jpg)
-***Austin Bradford Hill*** (1897-1991) - English epidemiologist and medical statistician.
-
-### Hill criteria:
-
-Set of nine qualitative principles (strength, consistency, specificity, temporality, biological gradient, plausibility, coherence, experiment, and analogy) employed to assess the likelihood of a causal relationship between a potential exposure and a health outcome.
-
 # I
 
 # J
 
 # K
-
-KOCH
-----
-
-![](image/koch.jpg)
-
-***Heinrich Hermann Robert Koch*** (1843-1910) - German physician and bacteriologist.
-
-### Koch postulates:
-
-Four-stage experimental protocol requiring (1) microbial presence in all diseased hosts, (2) isolation in pure culture, (3) reproduction of disease in a healthy host, and (4) re-isolation of the identical agent - to establish a specific pathogen as the causative source of a disease.
 
 # L
 
