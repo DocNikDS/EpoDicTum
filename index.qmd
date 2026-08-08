@@ -58,6 +58,8 @@ Derivative coinages — such as -ization, -statistic, or -estimator forms of exi
 
 All logical and set-theoretic symbols used throughout the dictionary follow the Anglo-American standard, directly compatible with the Julia programming environment. For detailed correspondences, see Appendix.
 
+In this dictionary, all component elements of a person's given name are connected with hyphens (e.g., "Jean-Octave-Albert Demons") rather than left as separate words. Although standard English convention reserves hyphens for compound given names that function as a single unit ("Jean-Pierre," "Mary-Kate"), the present practice is adopted as a deliberate editorial measure to eliminate any ambiguity between complex given names and surnames—a problem that arises frequently in multilingual historical sources and can be especially acute when a surname resembles a given name. This hyphenation follows a convention observed in some French scholarly texts and is applied uniformly throughout the volume, in the service of clarity and the precise identification of the individuals honoured by the eponyms.
+
 
 ##NB! Images
 
@@ -74,4 +76,4 @@ Thank you for helping us make this book an even more valuable reference resource
 
 ## Abbreviations used
 
-Syn.: Synonym(s)
+Syn.: synonym(s)
