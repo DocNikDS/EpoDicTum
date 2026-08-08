@@ -9,7 +9,7 @@ Example: BERKSON
 
 ***Joseph Berkson*** (1899-1982) - American physicist, physician and statistician.
 
-### Berkson bias/paradox:
+### Berkson bias/paradox
 
 Collider‑conditioning selection bias in hospital‑based studies where restricting the sample to hospitalized patients artificially induces a spurious inverse association between an exposure and the outcome, or a spurious positive association between two unrelated diseases, whenever the exposure, the outcome, or both independently influence the probability of hospital admission.
 
@@ -54,6 +54,18 @@ Collider‑conditioning selection bias in hospital‑based studies where restric
 # V
 
 # W
+
+WARTHIN
+-------
+
+![](image/warthin.jpg)
+
+***Aldred Scott Warthin*** (1866−1931) - American pathologist, the father of cancer genetics.
+
+### Warthin tumor
+
+
+
 
 # X
 

@@ -1,8 +1,7 @@
-EPONYMOUS DICTIONARY OF EPIDEMIOLOGY
-====================================
+EPONYMOUS DICTIONARY OF ONCOLOGY
+================================
 
-**EpoDictEpi** is a structured, editable digital dictionary of epidemiological eponyms.  
-It combines an **interactive Shiny editor** for maintaining entries with **Quarto publishing** for PDF and web output.
+**EpoDict** is a structured, editable digital dictionary of oncological eponyms. It combines an **interactive Shiny editor** for maintaining entries with **Quarto publishing** for PDF and web output.
 
 ---
 
