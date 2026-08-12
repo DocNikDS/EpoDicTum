@@ -5,8 +5,7 @@ Preface
 
 ## Some editorial considerations:
 
-Birth and death dates are given as years only, to avoid confusion between Gregorian and Julian calendars — an issue especially relevant for figures from the former Russian Empire.
-The symbol ∈ is used to denote disciplinary inclusion — e.g., an eponym “belonging to” a particular field of statistical theory or applied methodology.
+Birth and death dates are given according to Gregorian calendar (the "New Style") only — an issue especially relevant for figures from the former Russian Empire where Julian calendar (the "Old Style") was in official use until 1918, thus keeping calendar discrepancy with the Western world for centuries.
 
 ## 🧭 Categorization of eponyms
 

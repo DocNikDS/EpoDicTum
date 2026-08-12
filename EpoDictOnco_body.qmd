@@ -1,11 +1,27 @@
 # A
 
+ABRIKOSSOFF [ABRIKOSOV]
+-----------------------
+
+![](images/abrikossoff.jpg)
+***Aleksey Ivanovich Abrikossoff [Abrikosov]*** (18 Jan 1875, Moscow, Russian Empire - 9 Apr 1955, Мoscow, Russian SFSR, USSR) - Russian pathologist.
+
+### Abrikossoff tumor
+
+Syn.: granular cell tumor, granular cell schwannoma (see SCHWANN). Benign neoplasm of skin.
+
 # B
 
 BECKWITH
 --------
 
+![](images/beckwith.jpg)
+
+***John Bruce Beckwith*** (18 Sep 1933, Spokane, WA, US – 21 Jan 2025, Missoula, MT, US) - American pathologist. 
+
 ### Beckwith-Wiedemann syndrome
+
+Syn.: exomphalos-macroglossia-gigantism syndrome. Congenital, mostly sporadic, overgrowth disorder characterized by an increased risk of embryonal tumors (nephroblastoma, hepatoblastoma, neuroblastoma, rhabdomyosarcoma, etc.) in childhood. 
 
 BEHMEL
 ------
@@ -147,6 +163,13 @@ SERTOLI
 
 See LEYDIG
 
+SCHWANN
+-------
+
+### Schwannoma
+
+Also: Schwann cells.
+
 SIMPSON
 -------
 
@@ -171,7 +194,12 @@ WARTHIN
 
 ### Warthin tumor
 
-Syn.: cystadenoma lymphomatosum papilliferum; [cyst]adenolymphoma. Benign neoplasm of major salivary glands, predominantly the parotid gland. 
+Syn.: cystadenoma lymphomatosum papilliferum; [cyst]adenolymphoma. Benign neoplasm of major salivary glands, predominantly the parotid gland.
+
+WERNER
+------
+
+### Werner syndrome
 
 WIEDEMANN
 ---------
