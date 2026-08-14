@@ -4,7 +4,16 @@
 
 # C
 
-### Calmette-Guérin bacillus (BCG)
+CALMETTE
+--------
+
+![](images/calmette.jpg)
+
+Léon Charles Albert Calmette (12 Jul 1863, Nice, France – 29 Oct 1933, Paris, France) - French physician, bacteriologist, and immunologist. 
+
+### Bacillus Calmette-Guérin (BCG) vaccine
+
+A vaccine made of attenuated *Mycobacteria bovis* and indicated in the prevention of tuberculosis and the treatment of non-invasive urothelial bladder cancer.  
 
 # D
 
@@ -20,6 +29,13 @@ GHON
 ### Ghon focus (lesion) 
 
 ### Ghon complex
+
+GUÉRIN
+------
+
+### Bacillus Calmette-Guérin (BCG) vaccine
+
+See CALMETTE.
 
 # H
 
@@ -38,7 +54,7 @@ KOCH
 
 ### Koch bacillus
 
-Syn.: Mycobacterium tuberculosis. Aerobic weakly Gram-positive bacterium, proved by R. Koch (1882) to be the causative agent of tuberculosis. 
+Syn.: *Mycobacterium tuberculosis*. Aerobic weakly Gram-positive bacterium, proved by R. Koch (1882) to be the causative agent of tuberculosis. 
 
 ### Koch postulates
 
@@ -48,11 +64,40 @@ Four-stage experimental protocol requiring (1) microbial presence in all disease
 
 # M
 
+MANTOUX
+-------
+
+![](images/mantoux.jpg) 
+
+***Charles Mantoux*** (14 May 1877, Paris, France - 3 May 1947, Le Cannet, France) - French physician.
+
+### Mantoux-Mendel test
+
+Syn.: tuberculin sensitivity test; PPD test. A method consisting of an intradermal injection of purified protein derivative (PPD) tuberculin, used to screen for tuberculosis infection.
+
+MENDEL
+------
+
+Felix Mendel (2 Mar 1862, Essen, Germany - 19 Dec 1925) - Jewish German physician.
+
+### Mantoux-Mendel test
+
+See MANTOUX.
+
 # N
 
 # O
 
 # P
+
+POTT
+----
+
+Percivall Pott (6 Jan 1714, London, UK – 22 December 1788) - English surgeon.
+
+### Pott disease
+
+Syn.: tuberculous spondylitis.
 
 # Q
 

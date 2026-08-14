@@ -59,6 +59,9 @@ All logical and set-theoretic symbols used throughout the dictionary follow the 
 
 In this dictionary, all component elements of a person's given name are connected with hyphens (e.g., "Jean-Octave-Albert Demons") rather than left as separate words. Although standard English convention reserves hyphens for compound given names that function as a single unit ("Jean-Pierre," "Mary-Kate"), the present practice is adopted as a deliberate editorial measure to eliminate any ambiguity between complex given names and surnames—a problem that arises frequently in multilingual historical sources and can be especially acute when a surname resembles a given name. This hyphenation follows a convention observed in some French scholarly texts and is applied uniformly throughout the volume, in the service of clarity and the precise identification of the individuals honoured by the eponyms.
 
+## Places of the birth or death
+
+Whenever possible,the places of the birth or/and death of a person are given along with his/her dates of the birth or/and death. The names of those cities/towns/villages/ etc. and their administrative belonging are given due to nowaday's state borders, officially recognized by international law. (E.g., "Bratislava, Slovakia," not "Pressburg, Austrian-Hungarian Empire.")
 
 ##NB! Images
 

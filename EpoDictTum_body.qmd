@@ -42,6 +42,13 @@ CALL
 
 ### Call-Exner bodies
 
+COLEY
+-----
+
+### Coley toxins
+
+Syn.: Coley vaccine.
+
 # D
 
 DEMONS
@@ -130,6 +137,13 @@ PERLMAN
 -------
 
 ### Perlman syndrome
+
+POTT
+----
+
+Percivall Pott (6 Jan 1714, London, UK – 22 December 1788) - English surgeon.
+
+### Pott puffy tumor
 
 PROTEUS
 -------
