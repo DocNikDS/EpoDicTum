@@ -1,86 +1,57 @@
-Preface
-=======
+---
+title: "Preface"
+format: html
+---
 
-"You don't educate people by telling them useful things; you educate people by telling them interesting things." (John Conway) [Check the quote!]
+The ***Eponymous Dictionary of Tumors*** is a selective historical-medical reference devoted to eponymous tumor entities and tumor-related concepts that have entered the language of oncology and pathology. It is intended for oncologists, pathologists, cancer epidemiologists, historians of medicine, and students who need a compact, reliable guide to the persons behind the names and the entities those names designate.
 
-## Some editorial considerations:
+The dictionary uses the word ***“tumor”*** in a deliberately broad historical-pathological sense: not only malignant and benign neoplasms, but also non-neoplastic space-occupying lesions that have traditionally been called ***tumors***, whether it is neoplastic (clonal) or not, such as *Pott puffy tumor*.
 
-Birth and death dates are given according to Gregorian calendar (the "New Style") only — an issue especially relevant for figures from the former Russian Empire where Julian calendar (the "Old Style") was in official use until 1918, thus keeping calendar discrepancy with the Western world for centuries.
+The dictionary is intended as a living digital publication, designed to be updated and corrected. By bringing together concise, verifiable, and uniquely discriminative definitions, together with biographical notes and, where possible, images, it aims to preserve the eponymic memory in oncology and to make it accessible to contemporary readers without requiring access to expensive proprietary resources.
 
-## 🧭 Categorization of eponyms
+## Some editorial considerations
 
-EpoDict spans Biostatistics, Epidemiology, and related computational disciplines. Rather than assigning disciplinary labels, each eponym is categorized by its primary methodological function, allowing consistent classification across overlapping scientific fields. The list of categories is curated and may expand cautiously as the dictionary grows.
-To provide readers with conceptual orientation while avoiding technical overloading, each eponym in EpoDict is accompanied by a compact field-of-use label. This is expressed using the mathematical symbol ∈, indicating that the term belongs to or is primarily associated with a particular area of statistical methodology.
+### Scope and selectivity
 
-## Editorial Rules for EpoDict Entries:
+The Eponymous Dictionary is intentionally selective. It includes only those eponyms that belong explicitly and recognizably to the core domain of oncology, though in its broadest sense. Eponyms that belong primarily to other disciplines, or that are only loosely connected with tumors, are not included unless their tumor connection is central.
 
-🔸 identity (≤ 5 words)
-Style: Neutral, title-case; omit "a"/"the" unless essential
-Origin principle: Based on the *ethnic and modern nation-state approach*. Although it may sound anachronistic, this method provides a consistent and practical framework for categorizing historical figures in a way that is accessible to contemporary readers and avoids shift of attention and credits from national to imperial identities, thust preserving cultural diversity.
-Examples:
-Danish mathematician, statistician, and engineer
-American epidemiologist and data analyst
-British geneticist and public health pioneer
-German-born biostatistician
+### Congenital/hereditary syndromes
 
-🔸 eponym (≤ 10 words per line)
-EpoDict spans Biostatistics, Epidemiology, and related computational disciplines. Rather than assigning disciplinary labels, each eponym is categorized by its primary methodological function, allowing consistent classification across overlapping scientific fields. The list of categories is curated and may expand cautiously as the dictionary grows.
-Examples:
-- Cochran–Mantel–Haenszel (CMH) test ∈ stratified analysis
-- Daniell-Kolmogorov theorem ∈ stochastic processes
-  
-🔸 histor_facts (max 2–4 lines, 1–2 sentences each)
-Style: Telegraphic but clear; no initial articles unless needed; past tense preferred
-Examples:
-Developed queueing theory to model telephone systems.
-Published foundational works in statistical mechanics.
-Charitable, reclusive, and known for helping students anonymously.
+In this dictionary, hereditary and congenital syndromes are not included merely because they carry an increased risk of cancer; they are included only when the neoplastic predisposition is a defining, cardinal feature of the syndrome—not an associated or “notable” risk, however important its tumor association may be in clinical practice. This rule keeps the dictionary focused on tumors as the core of an eponym, rather than as a secondary complication of a broader genetic or dysmorphic conditions.
 
-🔸 full_name
-Style: Full historical name, with correct spelling and accents
-Examples:
-Karl Pearson
-Agner Krarup Erlang
+### Dates and places
 
-🔸 chapter
-Style: First letter of surname (capital)
+Birth and death dates are given according to the Gregorian calendar only—an issue especially relevant for figures from, e.g., the former Russian Empire, where the Julian calendar (the “Old Style”) was in official use until 1918, thus keeping calendar discrepancy with the Western world for centuries.
 
-🔸 finalized
+Whenever possible, the places of birth and/or death of a person are given along with his/her dates. The names of those cities, towns, villages, etc. and their administrative belonging are given according to today’s state borders, officially recognized by international law. For example, “Bratislava, Slovakia” is used, not “Pressburg, Austrian-Hungarian Empire.”
 
-Style: TRUE [or FALSE] only
+### Personal identity
 
-The Eponymous Dictionary is intentionally selective. It includes only those eponyms that belong explicitly and recognizably to the core domains of Statistics, Biostatistics, Epidemiology, Data Science, [Formal and Mathematical] Logic, Cybernetics, Bioinformatics, Medical Informatics, Biometry, Biomathematics, or Computational Health Sciences. Purely mathematical or purely biomedical constructs are excluded unless they have been adopted into statistical usage and are commonly encountered in professional discourse within the above fields. This editorial choice affirms the disciplinary integrity of Biostatistics and Epidemiology as distinct scientific languages—not merely subsets of Mathematics, Biology, or Medicine.
-If a concept belongs to classical or applied probability theory — and is not purely philosophical or abstract — it shall be included in EpoDict, unless it belongs exclusively to pure measure theory, topology, or functional analysis without any recognized statistical modeling relevance.
-In the Eponymous Dictionary, possessive or nobiliary prefix particles in complex surnames (e.g., de, d', di, von, van, etc.) are disregarded in both the entry headings and the alphabetical order of surnames in the Index. Thus, to locate a figure in the dictionary, one should search by the core surname itself (e.g., FINETTI rather than DE FINETTI; VINCI rather than DA VINCI).
-To preserve conceptual clarity and avoid inflation, the Eponymous Dictionary includes only distinct theoretical results, methods, or tools that are eponymous and recognized as standalone contributions within Statistics, Biostatistics, Epidemiology, and related fields.
-Derivative coinages — such as -ization, -statistic, or -estimator forms of existing eponyms — are excluded unless they have acquired independent theoretical status. This ensures the dictionary remains focused, didactic, and non-redundant.
+A person’s origin and professional identity are stated neutrally and, wherever feasible, in no more than few words; articles (“a,” “the”) are omitted unless essential.
 
-All logical and set-theoretic symbols used throughout the dictionary follow the Anglo-American standard, directly compatible with the Julia programming environment. For detailed correspondences, see Appendix.
+The dictionary follows an ethnic and modern nation-state approach. E.g., "Jewish American physician." Although this may sound anachronistic, it provides a consistent and practical framework for categorizing historical figures in a way that is accessible to contemporary readers and avoids shifting attention and credit from national to imperial identities, thus preserving cultural diversity.
 
-In this dictionary, all component elements of a person's given name are connected with hyphens (e.g., "Jean-Octave-Albert Demons") rather than left as separate words. Although standard English convention reserves hyphens for compound given names that function as a single unit ("Jean-Pierre," "Mary-Kate"), the present practice is adopted as a deliberate editorial measure to eliminate any ambiguity between complex given names and surnames—a problem that arises frequently in multilingual historical sources and can be especially acute when a surname resembles a given name. This hyphenation follows a convention observed in some French scholarly texts and is applied uniformly throughout the volume, in the service of clarity and the precise identification of the individuals honoured by the eponyms.
+### Alphabetization and particles
 
-## Congenital/hereditary syndromes
+In the Eponymous Dictionary, possessive or nobiliary prefix particles in complex surnames (e.g., de, d’, di, von, van, etc.) are disregarded in both the entry headings and the alphabetical order of surnames in the Index. Thus, to locate a figure in the dictionary, one should search by the core surname itself (e.g., VINCI, not DA VINCI).
 
-In this dictionary, hereditary and congenital syndromes are not included merely because they carry an increased risk of cancer; they are included only when the neoplastic predisposition is a defining, cardinal feature of the syndrome—not an associated or “notable” risk. The operative test is the following: if the neoplastic manifestations were removed from the description, would the entity lose its identity? If yes, the syndrome falls within the scope of EpoDictTum; if no, it is excluded, however important its tumor association may be in clinical practice. This rule keeps the dictionary focused on tumors as the core of the eponym, rather than as a secondary complication of a broader genetic or dysmorphic condition.
+### Hyphenation of given names
 
-## Places of the birth or death
+In this dictionary, all component elements of a person’s given name are connected with hyphens (e.g., “Jean-Octave-Albert Demons”) rather than left as separate words. It is adopted as a deliberate editorial measure to eliminate any ambiguity between complex given names and surnames—a problem that arises frequently in multilingual historical sources and can be especially acute when a surname resembles a given name. This hyphenation follows a convention observed in some French scholarly texts and is applied uniformly throughout the volume, in the service of clarity and the precise identification of the individuals honored by the eponyms.
 
-Whenever possible,the places of the birth or/and death of a person are given along with his/her dates of the birth or/and death. The names of those cities/towns/villages/ etc. and their administrative belonging are given due to nowaday's state borders, officially recognized by international law. (E.g., "Bratislava, Slovakia," not "Pressburg, Austrian-Hungarian Empire.")
-
-##NB! Images
+### Images
 
 Unless otherwise noted, the portraits and microphotographs in this dictionary are used under Public Domain or Creative Commons Zero (PD/CC0) licenses. We gratefully acknowledge the contributors to repositories for supporting global open-access education.
 
-## FEEDBACK FROM READERS
+### Feedback from readers
 
-This is an evolving digital-publishing project, and with your help we can make this book even better.
-At the end of each section of the book you’ll find a “magical” feedback link. Clicking the link takes you to an online feedback form where you can share your thoughts with us.
-We welcome any and all feedback or suggestions for improvement you may have. Please feel free to be as terse or detailed as you see fit. 
-All feedback is stored anonymously, but you can choose to leave your name and contact information so we can follow up or mention you on our “Thank You” page.
-We use a different feedback link for each section, so we’ll always know which part of the book your notes refer to.
+This is an evolving digital-publishing project, and with your help we can make it even better.
+
+At the end of each dictionary entry you’ll find a “magical” feedback link. Clicking the link takes you to an online feedback form where you can share your thoughts with the dictionary's editor. We welcome any and all feedback or suggestions for improvement you may have. Please feel free to be as terse or detailed as you see fit. All feedback is stored anonymously, but you can choose to leave your name and contact information so we can follow up or mention you on our “Acknowledgements” section.
+
 Thank you for helping us make this book an even more valuable reference resource for our readers community.
 
-## Abbreviations used
+### Abbreviations used
 
-b.: born
-Syn.: synonym(s)
+*b.* — born
+*Syn.* — synonym(s)
