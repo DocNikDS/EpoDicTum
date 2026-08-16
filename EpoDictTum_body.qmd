@@ -3,32 +3,34 @@
 ABRIKOSSOFF [ABRIKOSOV]
 -----------------------
 
-![](images/abrikossoff.jpg)
-***Aleksey Ivanovich Abrikossoff [Abrikosov]*** (18 Jan 1875, Moscow, Russian Empire - 9 Apr 1955, Мoscow, Russian SFSR, USSR) - Russian pathologist.
+![](images/Abrikossoff.jpg)
+***Aleksey Ivanovich Abrikossoff [Abrikosov]*** (18 Jan 1875, Moscow, Russia - 9 Apr 1955, Мoscow, Russia) - Russian pathologist.
 
 ### Abrikossoff tumor
 
-Syn.: granular cell tumor, granular cell schwannoma (see SCHWANN). Benign neoplasm of skin.
+Syn.: granular cell tumor. Benign neoplasm of skin.
 
 # B
 
 BECKWITH
 --------
 
-![](images/beckwith.jpg)
+![](images/Beckwith.jpg)
 
 ***John Bruce Beckwith*** (18 Sep 1933, Spokane, WA, US – 21 Jan 2025, Missoula, MT, US) - American pathologist. 
 
 ### Beckwith-Wiedemann syndrome
 
-Syn.: exomphalos-macroglossia-gigantism syndrome. Congenital, mostly sporadic, overgrowth disorder characterized by an increased risk of embryonal tumors (nephroblastoma, hepatoblastoma, neuroblastoma, rhabdomyosarcoma, etc.) in childhood. 
+Syn.: exomphalos-macroglossia-gigantism syndrome. Congenital, mostly sporadic, overgrowth syndrome, characterized notably by an increased risk of embryonal tumors in childhood. 
 
 BEHMEL
 ------
 
-### Behmel-Golabi-Rosen-Simpson syndrome
+***Annemarie Behmel*** (Graz, Austria) - Austrian geneticist.
 
-Syn.: *Sara Agers syndrome.
+### Simpson–Golabi–Behmel syndrome (SGBS)
+
+Syn.: Golabi-Rosen syndrome; Simpson dysmorphia syndrome (SDYS); X-linked dysplasia-gigantism syndrome (DGSX). Congenital hereditary overgrowth syndrome characterized notably by embryonal tumors.
 
 BRENNER
 -------
@@ -74,9 +76,9 @@ See CALL
 GOLABI
 ------
 
-### Behmel-Golabi-Rosen-Simpson syndrome
+### Simpson–Golabi–Behmel syndrome (SGBS)
 
-See BEHMEL
+Syn.: Golabi-Rosen syndrome. See BEHMEL
 
 # H
 
@@ -110,7 +112,7 @@ MAFFUCCI
 MEIGS
 -----
 
-![](images/meigs.jpg)
+![](images/Meigs.jpg)
 Joe Vincent Meigs (1892-1963)
 
 ### Demons-Meigs syndrome
@@ -150,7 +152,7 @@ PROTEUS
 
 ### Proteus syndrome
 
-Syn.: Wiedemann syndrome. 
+Syn.: Wiedemann syndrome. Partial gigantism-nevi-hemihypertrophy-macrocephaly syndrome. Overgrowth syndrome characterized, among other features, by some benign neoplasms (hemangiomas, lymphangiomas, lipomas, and epidermal nevi).
 
 # Q
 
@@ -164,9 +166,9 @@ REINKE
 ROSEN
 -----
 
-### Behmel-Golabi-Rosen-Simpson syndrome
+### Simpson–Golabi–Behmel syndrome (SGBS)
 
-See BEHMEL
+Syn.: Golabi-Rosen syndrome. See BEHMEL.
 
 # S
 
@@ -187,9 +189,11 @@ Also: Schwann cells.
 SIMPSON
 -------
 
-### Behmel-Golabi-Rosen-Simpson syndrome
+Joe Leigh Simpson (b. 1943) - geneticist.
 
-See BEHMEL
+### Simpson–Golabi–Behmel syndrome (SGBS)
+
+Syn.: Simpson dysmorphia syndrome (SDYS). See BEHMEL.
 
 # T
 
@@ -202,7 +206,7 @@ See BEHMEL
 WARTHIN
 -------
 
-![](images/warthin.jpg)
+![](images/Warthin.jpg)
 
 ***Aldred Scott Warthin*** (21 Oct 1866, Greensburg, Indiana, US - 23 May 1931, Ann Arbor, Michigan, US) - American pathologist, the father of cancer genetics.
 
@@ -217,6 +221,9 @@ WERNER
 
 WIEDEMANN
 ---------
+
+![Wiedemann](images/Wiedemann.jpg)
+Hans-Rudolf Wiedemann (16 Feb 1915, Bremen, Germany – 4 Aug 2006, Kiel, Germany) - German pediatrician. 
 
 ### Beckwith-Wiedemann syndrome
 
