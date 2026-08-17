@@ -1,0 +1,6 @@
+\usepackage{xpatch}
+\newif\iffirstsubsec
+\firstsubsecfalse
+
+\xpretocmd{\section}{\clearpage\global\firstsubsectrue}{}{}
+\xpretocmd{\subsection}{\iffirstsubsec\global\firstsubsecfalse\else\clearpage\fi}{}{}
