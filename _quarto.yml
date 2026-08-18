@@ -1,17 +1,20 @@
 project:
   type: book
+  
+page-navigation: true
 
 book:
   title: "EPONYMOUS DICTIONARY OF TUMORS"
-  subtitle: "v. 1.0 | Haifa, Israel"
-  author: "Nikolai Danilov"
+  subtitle: "v. 1.0"
+  author: "Nikolai Danilov, MD, MPH"
+  place: "Haifa, Israel"
   date: "2026"
   search: true
   chapters:
-    - copyright.qmd   
-    - index.qmd     # Preface
-    - EpoDicTum_body.qmd     # The Dictionary itself (the A-Z chapters)
-    - personalia.qmd  # The alphabetical Index of personalia
+    - copyright.qmd  # Copyright info page. 
+    - index.qmd     # Preface.
+    - EpoDicTum_body.qmd     # The Dictionary itself (the A-Z chapters).
+    - personalia.qmd  # Index of Personalia.
 
 format:
   html:
@@ -19,7 +22,7 @@ format:
     toc: true
     toc-depth: 3
     page-navigation: true
-    chunk-level: 3 # This tells Quarto to start a new page at every H3 header
+    chunk-level: 3 # Tells Quarto to start a new page at every H3 header.
     css: styles.css
     lightbox: auto
   pdf:
