@@ -1,202 +1,176 @@
-The Dictionary
-==============
-
-A
+---
+title: "Eponyms (A-Z)"
 ---
 
-### ABRIKOSSOFF [ABRIKOSOV]
+# A
+
+## ABRIKOSSOFF [ABRIKOSOV]
 
 ![](images/Abrikossoff.jpg)
 ***Aleksey Ivanovich Abrikossoff [Abrikosov]*** (18 Jan 1875, Moscow, Russia - 9 Apr 1955, Мoscow, Russia) - Russian pathologist.
 
-#### Abrikossoff tumor
+### Abrikossoff tumor
 
 Syn.: granular cell tumor. Benign neoplasm of skin.
 
-B
----
+# B
 
-### BRENNER
+## BRENNER
 
 ![](images/Brenner.jpg)
 ***Fritz Brenner*** (16 Dec 1877, Osthofen, Germany – 26 Dec 1969, Johannesburg, South Africa) - German physician and pathologist.
 
-#### Brenner tumor
+### Brenner tumor
 
 Generally benign ovarian epithelial neoplasm.
 
-C
----
+# C
 
-### CALL
+## CALL
 
-#### Call-Exner bodies
+### Call-Exner bodies
 
-###COLEY
+## COLEY
 
-
-#### Coley toxins
+### Coley toxins
 
 Syn.: Coley vaccine.
 
-D
----
+# D
 
-### DEMONS
+## DEMONS
 
 Jean-Octave-Albert Demons (1842-1920)
 
-#### Demons-Meigs syndrome
+### Demons-Meigs syndrome
 
-E
----
+# E
 
-### EXNER
+## EXNER
 
-#### Call–Exner bodies
+### Call–Exner bodies
 
 See CALL
 
-F
----
+# F
 
-G
----
+# G
 
-H
----
+# H
 
-I
----
+# I
 
-J
----
+# J
 
-K
----
+# K
 
-### KRUKENBERG
+## KRUKENBERG
 
-#### Krukenberg tumor
+### Krukenberg tumor
 
-L
----
+# L
 
-### LEYDIG
+## LEYDIG
 
-#### Leydig cell tumor
+### Leydig cell tumor
 
-#### Leydig-Sertoli cell tumor
+### Leydig-Sertoli cell tumor
 
-M
----
+# M
 
-### MAFFUCCI
+## MAFFUCCI
 
-#### Maffucci syndrome
+### Maffucci syndrome
 
-### MEIGS
+## MEIGS
 
 ![](images/Meigs.jpg)
 Joe Vincent Meigs (1892-1963)
 
-#### Demons-Meigs syndrome
+### Demons-Meigs syndrome
 
 See DEMONS
 
-### MERKEL
+## MERKEL
 
-#### Merkel cell carcinoma
+### Merkel cell carcinoma
 
-N
----
+# N
 
-O
----
+# O
 
-### OLLIER
+## OLLIER
 
-#### Ollier disease
+### Ollier disease
 
-P
----
+# P
 
-### PERLMAN
+## PERLMAN
 
-#### Perlman syndrome
+### Perlman syndrome
 
-### POTT
+## POTT
 
 Percivall Pott (6 Jan 1714, London, UK – 22 December 1788) - English surgeon.
 
-#### Pott puffy tumor
+### Pott puffy tumor
 
-Q
----
+# Q
 
-R
----
+# R
 
-### REINKE
+## REINKE
 
-#### Reinke crystalloids
+### Reinke crystalloids
 
-### ROSEN
+## ROSEN
 
-#### Simpson–Golabi–Behmel syndrome (SGBS)
+### Simpson–Golabi–Behmel syndrome (SGBS)
 
 Syn.: Golabi-Rosen syndrome. See BEHMEL.
 
-S
----
+# S
 
-### SERTOLI
+## SERTOLI
 
-#### Leydig-Sertoli cell tumor
+### Leydig-Sertoli cell tumor
 
 See LEYDIG.
 
-### SCHWANN
+## SCHWANN
 
-#### Schwannoma
+### Schwannoma
 
 Also: Schwann cells.
 
-T
----
+# T
 
-U
----
+# U
 
-V
----
+# V
 
-W
----
+# W
 
-### WARTHIN
+## WARTHIN
 
 ![](images/Warthin.jpg)
 
 ***Aldred Scott Warthin*** (21 Oct 1866, Greensburg, Indiana, US - 23 May 1931, Ann Arbor, Michigan, US) - American pathologist, the father of cancer genetics.
 
-#### Warthin tumor
+### Warthin tumor
 
 Syn.: cystadenoma lymphomatosum papilliferum; [cyst]adenolymphoma. Benign neoplasm of major salivary glands, predominantly the parotid gland.
 
-### WERNER
+## Werner
 
-#### Werner syndrome
+### Werner syndrome
 
-### WILMS
+## WILMS
 
-#### Wilms tumor
+### Wilms tumor
 
-X
----
+# X
 
-Y
----
+# Y
 
-Z
----
+# Z
