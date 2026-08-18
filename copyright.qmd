@@ -2,4 +2,10 @@
 
 © 2026 Nikolai Danilov (@DocNikDS). All rights reserved.
 
+<<<<<<< HEAD
 First digital edition (v. 1.0) published on 17 August 2026.
+=======
+First published on 17 August 2026.
+
+This digital edition (v. 1.0) was built on {{< meta date >}}.
+>>>>>>> 15b23c36cfb319214aa3446b3240fc154c3bf380
