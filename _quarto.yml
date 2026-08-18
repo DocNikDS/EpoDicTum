@@ -1,7 +1,5 @@
 project:
   type: book
-  
-page-navigation: true
 
 book:
   title: "EPONYMOUS DICTIONARY OF TUMORS"
