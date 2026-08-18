@@ -5,7 +5,8 @@ book:
   title: "EPONYMOUS DICTIONARY OF TUMORS"
   subtitle: "v. 1.0"
   author: "Nikolai Danilov, MD, MPH"
-  date: "2026"
+  date: today
+  date-format: "D MMM YYYY"
   publisher: "@DocNikDS | Haifa, Israel"
   search: true
   chapters:
