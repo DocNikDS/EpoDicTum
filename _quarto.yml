@@ -2,8 +2,7 @@ project:
   type: book
 
 book:
-  title: "Eponymous Dictionary of Tumors"
-  subtitle: "EPODICTUM"
+  title: "EPONYMOUS DICTIONARY OF TUMORS"
   subtitle: "v. 1.0"
   author: "Nikolai Danilov, MD, MPH"
   date: "2026"
