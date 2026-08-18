@@ -13,7 +13,7 @@ book:
   chapters:
     - copyright.qmd
     - index.qmd
-    - EpoDicTum_body.qmd
+    - EPODICTUM.qmd
     - references.qmd
     - personalia.qmd
 
