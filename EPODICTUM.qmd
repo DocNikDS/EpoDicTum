@@ -7,6 +7,7 @@ title: "Eponyms (A-Z)"
 ## ABRIKOSSOFF [ABRIKOSOV]
 
 ![](images/Abrikossoff.jpg)
+
 ***Aleksey Ivanovich Abrikossoff [Abrikosov]*** (18 Jan 1875, Moscow, Russia - 9 Apr 1955, Мoscow, Russia) - Russian pathologist.
 
 ### Abrikossoff tumor
@@ -18,6 +19,7 @@ Syn.: granular cell tumor. Benign neoplasm of skin.
 ## BRENNER
 
 ![](images/Brenner.jpg)
+
 ***Fritz Brenner*** (16 Dec 1877, Osthofen, Germany – 26 Dec 1969, Johannesburg, South Africa) - German physician and pathologist.
 
 ### Brenner tumor
