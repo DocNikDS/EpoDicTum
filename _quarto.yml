@@ -6,7 +6,7 @@ book:
   subtitle: "v. 1.0"
   author: "Nikolai Danilov, MD, MPH"
   date: "2026"
-  publisher: "@DocNikDS, Haifa, Israel"
+  publisher: "@DocNikDS | Haifa, Israel"
   search: true
   chapters:
     - copyright.qmd  # Copyright info page. 
