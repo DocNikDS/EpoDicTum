@@ -1,10 +1,5 @@
-# {.unnumbered .unlisted}
+# Copyright
 
-\vspace*{\fill}
+© 2026 Nikolai Danilov (@DocNikDS). All rights reserved.
 
-\begin{center}
-© 2026 Nik Danilov. All rights reserved.
-
-First digital edition, 2026. Haifa, Israel.
-\end{center}
-\newpage
+First digital edition (v. 1.0) published on 17 August 2026.
