@@ -6,31 +6,34 @@ book:
   subtitle: "v. 1.0"
   author: "Nikolai Danilov, MD, MPH"
   date: today
-  date-format: "D MMM YYYY"
+  date-format: "D MMMM YYYY"                
   publisher: "@DocNikDS | Haifa, Israel"
   search: true
+  page-navigation: true                     
   chapters:
-    - copyright.qmd  # Copyright info page. 
-    - index.qmd     # Preface.
-    - EpoDicTum_body.qmd     # The Dictionary itself (A-Z chapters).
-    - personalia.qmd  # Index of Personalia.
+    - copyright.qmd
+    - index.qmd
+    - EpoDicTum_body.qmd
+    - personalia.qmd
+
+bibliography: references.bib
 
 format:
   html:
-    number-sections: false
     toc: true
     toc-depth: 3
-    page-navigation: true
-    chunk-level: 3 # Tells Quarto to start a new page at every H3 header.
+    number-sections: false
     css: styles.css
+    chunk-level: 3                          
     lightbox: auto
+
   pdf:
-    number-sections: false
     toc: true
     toc-depth: 3
-    page-navigation: true
+    number-sections: false
+    css: styles.css                         
+    chunk-level: 3                          
     include-in-header: preamble.tex
-    css: styles.css
     papersize: a4
     fontsize: 12pt
     geometry:
@@ -42,4 +45,3 @@ format:
     fig-width: 5
     fig-height: 5
     
-  

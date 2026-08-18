@@ -1,6 +1,5 @@
 ---
 title: "Preface"
-format: html
 ---
 
 The ***Eponymous Dictionary of Tumors*** is a selective historical-medical reference devoted to eponymous tumor entities and tumor-related concepts that have entered the language of oncology. It is intended for oncologists, pathologists, cancer epidemiologists, historians of medicine, other specialists, and students, who need a compact, reliable guide to the persons behind the names and the entities those names designate.
