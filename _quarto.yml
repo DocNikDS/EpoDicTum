@@ -2,16 +2,17 @@ project:
   type: book
 
 book:
-  title: "EPONYMOUS DICTIONARY OF TUMORS"
+  title: "Eponymous Dictionary of Tumors"
+  subtitle: "EPODICTUM"
   subtitle: "v. 1.0"
   author: "Nikolai Danilov, MD, MPH"
-  place: "Haifa, Israel"
   date: "2026"
+  publisher: "@DocNikDS, Haifa, Israel"
   search: true
   chapters:
     - copyright.qmd  # Copyright info page. 
     - index.qmd     # Preface.
-    - EpoDicTum_body.qmd     # The Dictionary itself (the A-Z chapters).
+    - EpoDicTum_body.qmd     # The Dictionary itself (A-Z chapters).
     - personalia.qmd  # Index of Personalia.
 
 format:
