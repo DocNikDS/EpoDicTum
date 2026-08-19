@@ -8,9 +8,11 @@ book:
   date: today
   date-format: "D MMMM YYYY"                
   publisher: "@DocNikDS | Haifa, Israel"
+  cover-image: images/cover.pdf
   search: true
   page-navigation: true                     
   chapters:
+    - cover.qmd
     - copyright.qmd
     - index.qmd
     - EPODICTUM.qmd
@@ -21,20 +23,21 @@ bibliography: references.bib
 
 format:
   html:
+    cover-image: images/cover.pdf
     toc: true
     toc-depth: 3
     number-sections: false
     css: styles.css
     chunk-level: 3                          
     lightbox: auto
-
   pdf:
+    cover-image: images/cover.pdf
+    include-in-header: preamble.tex
     toc: true
     toc-depth: 3
     number-sections: false
     css: styles.css                         
     chunk-level: 3                          
-    include-in-header: preamble.tex
     papersize: a4
     fontsize: 12pt
     geometry:
