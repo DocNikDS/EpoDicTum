@@ -10,6 +10,7 @@ book:
   date-format: "D MMMM YYYY"                
   publisher: "@DocNikDS | Haifa, Israel"
   cover-image: images/cover.png
+  image: images/cover.png
   search: true
   page-navigation: true                     
   chapters:
