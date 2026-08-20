@@ -9,7 +9,7 @@ book:
   date: today
   date-format: "D MMMM YYYY"                
   publisher: "@DocNikDS | Haifa, Israel"
-  cover-image: images/cover.pdf
+  cover-image: images/cover.png
   search: true
   page-navigation: true                     
   chapters:
@@ -24,7 +24,7 @@ bibliography: references.bib
 
 format:
   html:
-    cover-image: images/cover.pdf
+    cover-image: images/cover.png
     toc: true
     toc-depth: 3
     number-sections: false
@@ -32,7 +32,7 @@ format:
     chunk-level: 3                          
     lightbox: auto
   pdf:
-    cover-image: images/cover.pdf
+    cover-image: images/cover.png
     include-in-header: preamble.tex
     toc: true
     toc-depth: 3
