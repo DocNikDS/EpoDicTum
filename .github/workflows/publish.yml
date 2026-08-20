@@ -20,9 +20,10 @@ jobs:
       - name: Render Quarto book (HTML only)
         run: quarto render --to html
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _book
-          publish_branch: gh-pages
+      - name: Commit and push to main (docs/)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/
+          git commit -m "Update Quarto book [skip ci]" || echo "No changes to commit"
+          git push
