@@ -2,6 +2,16 @@
 title: "Preface"
 ---
 
+![](images/cover.png){width=100%}
+
+\newpage
+
+© 2026 Nikolai Danilov (DocNikDS). All rights reserved. First digital edition (v. 1.0) published on 17 August 2026.
+
+---
+
+#### Welcome!
+
 The ***Eponymous Dictionary of Tumors*** is a selective historical-medical reference devoted to eponymous tumor entities and tumor-related concepts that have entered the language of oncology. It is intended for oncologists, pathologists, cancer epidemiologists, historians of medicine, other specialists, and students, who need a compact, reliable guide to the persons behind the names and the entities those names designate.
 
 The dictionary uses the word ***“tumor”*** in a deliberately broad historical-pathological sense: not only malignant and benign neoplasms, but also non-neoplastic space-occupying lesions that have traditionally been called ***tumors***, such as *Pott puffy tumor*.
