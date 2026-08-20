@@ -2,10 +2,6 @@
 title: "Preface"
 ---
 
-![](images/cover.png){width=100%}
-
-\newpage
-
 © 2026 Nikolai Danilov (DocNikDS). All rights reserved. First digital edition (v. 1.0) published on 17 August 2026.
 
 ---
