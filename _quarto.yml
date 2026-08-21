@@ -2,7 +2,7 @@ project:
   type: book
   output-dir: docs
   
-site-url: https://docnikds.github.io/EpoDicTum/
+base-url: https://docnikds.github.io/EpoDicTum/
 
 book:
   title: "EPONYMOUS DICTIONARY OF TUMORS"
