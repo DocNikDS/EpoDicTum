@@ -18,6 +18,7 @@ Thumbs.db
 *.pdf
 *.docx
 *.html
+!docs/*.html
 Publishing/outputs/
 # ---- Quarto/R Markdown cache (if used) ----
 *_cache/
