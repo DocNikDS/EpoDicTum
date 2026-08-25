@@ -1,0 +1,8 @@
+/* Centers and standardizes image width for the online book */
+img {
+  width: 80%;           /* Adjust this % to your preference for "optimal" look */
+  max-width: 800px;     /* Prevents images from becoming too large on wide monitors */
+  display: block;
+  margin: 1.5rem auto;  /* Centers the image and adds vertical spacing */
+  border-radius: 4px;   /* Optional: adds a slight professional softening to corners */
+}
