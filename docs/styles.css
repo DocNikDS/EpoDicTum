@@ -6,3 +6,7 @@ img {
   margin: 1.5rem auto;  /* Centers the image and adds vertical spacing */
   border-radius: 4px;   /* Optional: adds a slight professional softening to corners */
 }
+
+.sidebar-brand-text {
+  display: none;
+}
