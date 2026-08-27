@@ -1,178 +1,355 @@
 ---
-title: "Eponyms (A-Z)"
+title: "EPONYMOUS DICTIONARY OF TUMORS"
+subtitle: "v. 1.0"
+author: "Nikolai Danilov, MD, MPH"
+date: today
+date-format: "D MMMM YYYY"
+doi: "10.5281/zenodo.22050867"
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    css: styles.css
+    cover-image: images/cover.png
+
+  pdf:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    papersize: "6in x 9in"
+    fontsize: 12pt
+    geometry:
+      - top = 0.75in
+      - bottom = 0.75in
+      - left = 1in
+      - right = 0.75in
+    classoption:
+      - DIV=11        # Adjusts text area proportion
+      - BCOR=0.25in   # Binding correction (extra inner margin)
+    cover-image: images/cover.png
+    fig-height: 2
+    fig-align: center
+    colorlinks: true
+    linkcolor: blue
+    urlcolor: blue
 ---
 
+::: {.entry}
+![](images/cover.png){width=100%}
+:::
+
+::: {.entry}
+# Copyright 
+
+© 2026 Nikolai Danilov (@DocNikDS). All rights reserved.
+
+First digital edition (v. 1.0) published on 21 August 2026.
+
+**DOI:** https://doi.org/10.5281/zenodo.22050867
+:::
+ 
+::: {.entry}
+# Preface
+
+The ***Eponymous Dictionary of Tumors*** is a selective historical-medical reference devoted to eponymous tumor entities and tumor-related concepts that have entered the language of oncology. It is intended for oncologists, pathologists, cancer epidemiologists, historians of medicine, other specialists, and students, who need a compact, reliable guide to the persons behind the names and the entities those names designate.
+
+The dictionary uses the word ***“tumor”*** in a deliberately broad historical-pathological sense: not only malignant and benign neoplasms, but also non-neoplastic space-occupying lesions that have traditionally been called ***tumors***, such as *Pott puffy tumor*.
+
+The dictionary is intended as a living digital publication, designed to be updated and corrected. By bringing together concise, verifiable, and uniquely discriminative definitions, together with biographical notes and, where possible, images, it aims to preserve the eponymic memory in oncology and to make it accessible to contemporary readers without requiring access to expensive proprietary resources.
+
+**Scope and selectivity**
+
+The Eponymous Dictionary is intentionally selective. It includes only those eponyms that belong explicitly and recognizably to the core domain of oncology, though in its broadest sense. Eponyms that belong primarily to other disciplines, or that are only loosely connected with tumors, are not included unless their tumor connection is central.
+
+**Congenital/hereditary syndromes**
+
+In this dictionary, hereditary and congenital syndromes are not included merely because they carry an increased risk of cancer; they are included only when the neoplastic predisposition is a defining, cardinal feature of the syndrome—not an associated or “notable” risk, however important its tumor association may be in clinical practice. This rule keeps the dictionary focused on tumors as the core of the eponym a broader genetic or dysmorphic conditions.
+
+**Dates and places**
+
+Birth and death dates are given according to the Gregorian calendar only—an issue especially relevant for figures from, e.g., the former Russian Empire, where the Julian calendar (the “Old Style”) was in official use until 1918, thus keeping calendar discrepancy with the Western world for centuries.
+
+Whenever possible, the places of birth and/or death of a person are given along with his/her dates. The names of those cities, towns, villages, etc. and their administrative belonging are given according to today’s state borders, officially recognized by international law. For example, “Bratislava, Slovakia” is used, not “Pressburg, Austrian-Hungarian Empire.”
+
+**Personal identity**
+
+A person’s origin and professional identity are stated neutrally and, wherever feasible, in no more than a few words; articles (“a,” “the”) are omitted unless essential.
+
+The dictionary follows an ethnic and modern nation-state approach. For example, "Jewish American physician." Although this may sound anachronistic, it provides a consistent practical framework for categorizing historical figures in a way that is accessible to contemporary readers and avoids shifting attention and credit from national to imperial identities, thus preserving cultural diversity.
+
+**Alphabetization and particles**
+
+In the Eponymous Dictionary, possessive or nobiliary prefix particles in complex surnames (e.g., de, d’, di, von, van, etc.) are disregarded in both the entry headings and the alphabetical order of surnames in the Index. Thus, to locate a figure in the dictionary, one should search by the core surname itself (e.g., VINCI, not DA VINCI).
+
+**Hyphenation of given names**
+
+In this dictionary, all component elements of a person’s given name are connected with hyphens (e.g., “Jean-Octave-Albert Demons”) rather than left as separate words. It is adopted as a deliberate editorial measure to eliminate any ambiguity between complex given names and surnames—a problem that arises frequently in multilingual historical sources and can be especially acute when a surname resembles a given name. This hyphenation follows a convention observed in some French scholarly texts and is applied uniformly throughout the volume, in the service of clarity and the precise identification of the individuals honored by the eponyms.
+
+**Images**
+
+Unless otherwise noted, the portraits and microphotographs in this dictionary are used under Public Domain or Creative Commons Zero (PD/CC0) licenses. We gratefully acknowledge the contributors to repositories for supporting global open-access education.
+
+**Feedback from readers**
+
+This is an evolving digital-publishing project, and with your help we can make it even better.
+
+At the end of each dictionary entry you’ll find a “magical” feedback link. Clicking the link takes you to an online feedback form where you can share your thoughts with the dictionary's editor. We welcome any and all feedback or suggestions for improvement you may have. Please feel free to be as terse or detailed as you see fit. All feedback is stored anonymously, but you can choose to leave your name and contact information so we can follow up or mention you on our “Acknowledgements” section.
+
+Thank you for helping us make this book an even more valuable reference resource for our readers' community.
+
+**Abbreviations used**
+
+*b.* — born
+*Syn.* — synonym(s)
+:::
+
+::: {.entry}
 # A
 
-## ABRIKOSSOFF [ABRIKOSOV]
+## ABRIKOSSOFF [ABRIKOSOV] {.entry}
 
-![](images/Abrikossoff.jpg)
-
+![](images/Abrikossoff.jpg){.portrait}
 ***Aleksey Ivanovich Abrikossoff [Abrikosov]*** (18 Jan 1875, Moscow, Russia - 9 Apr 1955, Мoscow, Russia) - Russian pathologist.
 
 ### Abrikossoff tumor
 
 Syn.: granular cell tumor. Benign neoplasm of skin.
 
+\newpage
+
 # B
 
-## BRENNER
+## BRENNER {.entry}
 
-![](images/Brenner.jpg)
-
+![](images/Brenner.jpg){.portrait}
 ***Fritz Brenner*** (16 Dec 1877, Osthofen, Germany – 26 Dec 1969, Johannesburg, South Africa) - German physician and pathologist.
 
 ### Brenner tumor
 
 Generally benign ovarian epithelial neoplasm.
 
+\newpage
+
 # C
 
-## CALL
+## CALL {.entry}
 
 ### Call-Exner bodies
 
-## COLEY
+\newpage
+
+## COLEY {.entry}
 
 ### Coley toxins
 
 Syn.: Coley vaccine.
 
+\newpage
+
 # D
 
-## DEMONS
+## DEMONS {.entry}
 
 Jean-Octave-Albert Demons (1842-1920)
 
 ### Demons-Meigs syndrome
 
+\newpage
+
 # E
 
-## EXNER
+## EXNER {.entry}
 
 ### Call–Exner bodies
 
 See CALL
 
+\newpage
+
 # F
+
+\newpage
 
 # G
 
+\newpage
+
 # H
+
+\newpage
 
 # I
 
+\newpage
+
 # J
+
+\newpage
 
 # K
 
-## KRUKENBERG
+\newpage
+
+## KRUKENBERG {.entry}
 
 ### Krukenberg tumor
 
+\newpage
+
 # L
 
-## LEYDIG
+## LEYDIG {.entry}
 
 ### Leydig cell tumor
 
 ### Leydig-Sertoli cell tumor
 
+\newpage
+
 # M
 
-## MAFFUCCI
+## MAFFUCCI {.entry}
 
 ### Maffucci syndrome
 
-## MEIGS
+\newpage
 
-![](images/Meigs.jpg)
+## MEIGS {.entry}
+
+![](images/Meigs.jpg){.portrait}
 Joe Vincent Meigs (1892-1963)
 
 ### Demons-Meigs syndrome
 
 See DEMONS
 
-## MERKEL
+\newpage
+
+## MERKEL {.entry}
 
 ### Merkel cell carcinoma
 
+\newpage
+
 # N
+
+\newpage
 
 # O
 
-## OLLIER
+## OLLIER {.entry}
 
 ### Ollier disease
 
+\newpage
+
 # P
 
-## PERLMAN
+## PERLMAN {.entry}
 
 ### Perlman syndrome
 
-## POTT
+\newpage
+
+## POTT {.entry}
 
 Percivall Pott (6 Jan 1714, London, UK – 22 December 1788) - English surgeon.
 
 ### Pott puffy tumor
 
+\newpage
+
 # Q
+
+\newpage
 
 # R
 
-## REINKE
+## REINKE {.entry}
 
 ### Reinke crystalloids
 
-## ROSEN
+\newpage
+
+## ROSEN {.entry}
 
 ### Simpson–Golabi–Behmel syndrome (SGBS)
 
 Syn.: Golabi-Rosen syndrome. See BEHMEL.
 
+\newpage
+
 # S
 
-## SERTOLI
+## SERTOLI {.entry}
 
 ### Leydig-Sertoli cell tumor
 
 See LEYDIG.
 
-## SCHWANN
+\newpage
+
+## SCHWANN {.entry}
 
 ### Schwannoma
 
 Also: Schwann cells.
 
+\newpage
+
 # T
+
+\newpage
 
 # U
 
+\newpage
+
 # V
+
+\newpage
 
 # W
 
-## WARTHIN
+## WARTHIN {.entry}
 
-![](images/Warthin.jpg)
-
+![](images/Warthin.jpg){.portrait}
 ***Aldred Scott Warthin*** (21 Oct 1866, Greensburg, Indiana, US - 23 May 1931, Ann Arbor, Michigan, US) - American pathologist, the father of cancer genetics.
 
 ### Warthin tumor
 
 Syn.: cystadenoma lymphomatosum papilliferum; [cyst]adenolymphoma. Benign neoplasm of major salivary glands, predominantly the parotid gland.
 
-## WERNER
+\newpage
+
+## WERNER {.entry}
 
 ### Werner syndrome
 
-## WILMS
+\newpage
+
+## WILMS {.entry}
 
 ### Wilms tumor
 
+\newpage
+
 # X
+
+\newpage
 
 # Y
 
+\newpage
+
 # Z
+
+\newpage
+
+# References
+
+\newpage
+
+# Index of personalia
