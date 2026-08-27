@@ -11,3 +11,13 @@ img {
 .sidebar-brand {
   display: none;
 }
+
+/* Portrait images: fixed height, auto width, centered */
+.portrait {
+  height: 2in;
+  width: auto;
+  max-width: none;
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 4px;
+}
