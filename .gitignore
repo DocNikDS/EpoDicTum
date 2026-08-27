@@ -21,8 +21,6 @@ Thumbs.db
 # ---- Output (rendered or intermediate files) ----
 *.pdf
 *.docx
-*.html
-!docs/*.html         # Allow HTML files inside docs/ folder
 Publishing/outputs/
 
 # ---- Quarto/R Markdown cache (if used) ----
