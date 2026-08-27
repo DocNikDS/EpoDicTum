@@ -1,35 +1,43 @@
 # ---- Legacy or unused ----
 EpoDict.accdb
 EpoDict_Dashboard.xlsm
+
 # ---- RStudio session and user-specific data ----
 .RData
 .Rhistory
 .Rproj.user/
+
 # ---- Temporary and OS-specific files ----
 *.tmp
 *.log
 ~$*
 .DS_Store
 Thumbs.db
+
 # ---- Excel backup/autosave ----
 *.bak
 *.xlsx~
+
 # ---- Output (rendered or intermediate files) ----
 *.pdf
 *.docx
 *.html
-!docs/*.html
+!docs/*.html         # Allow HTML files inside docs/ folder
 Publishing/outputs/
+
 # ---- Quarto/R Markdown cache (if used) ----
 *_cache/
 *.knit.md
+
 # ---- Uncomment if output folder is renamed ----
 # /output/
 /.quarto/
 **/*.quarto_ipynb
 /.luarc.json
+
+# ---- Additional ignored files ----
+_book/                # Ignore Quarto's default output folder
 *.gdoc
 .Rproj.user
 .httr-oauth
-.quarto
 .positai

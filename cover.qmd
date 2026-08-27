@@ -1,9 +1,0 @@
----
-title: "Eponymous Dictionary of Tumors"
-toc: false
----
-
-![](images/cover.png){width=100%}
-
-\newpage
-
