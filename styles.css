@@ -72,3 +72,21 @@ img.cover-img {
   gap: 2rem;
   margin-bottom: 2rem;
 }
+
+/* Force images and Quarto figure wrappers inside columns to fill column width */
+.column .quarto-figure,
+.column .quarto-figure figure,
+.column .quarto-figure p,
+.column img {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+  display: block !important;
+}
+
+/* Optional: subtle shadow for ebook depth */
+.column img {
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
