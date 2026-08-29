@@ -16,6 +16,9 @@ format:
     css: styles.css
     cover-image: images/cover.png
     pdf: false
+    resources:
+      - styles.css
+      - images/
 
   pdf:
     toc: true
