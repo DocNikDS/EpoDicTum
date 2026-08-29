@@ -27,33 +27,22 @@ img {
   display: none !important;
 }
 
-/* Cover layout: image on left, text on right (table-based) */
-.cover-layout table {
-  width: 100%;
-  border: none;
-  border-collapse: collapse;
+/* --- 50/50 Cover Layout Rules --- */
+
+.cover-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 2rem;
 }
 
-.cover-layout td {
-  vertical-align: top;
-  padding: 1rem;
-  border: none;
-}
-
-.cover-layout td:first-child {
-  width: 50%;
-}
-
-.cover-layout td:last-child {
-  width: 50%;
-}
-
-/* Override global img rules for the cover image */
-.cover-layout img {
+/* Ensures the cover image occupies 100% of its 50% column while preserving aspect ratio */
+img.cover-img {
   width: 100% !important;
-  max-width: none !important;
+  max-width: 100% !important;
   height: auto !important;
-  display: block !important;
   margin: 0 !important;
-  border-radius: 4px !important;
+  display: block !important;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow for ebook depth */
 }
