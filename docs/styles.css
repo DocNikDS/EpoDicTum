@@ -1,0 +1,23 @@
+/* Centers and standardizes image width for the online book */
+img {
+  width: 80%;
+  max-width: 800px;
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 4px;
+}
+
+/* Hides the title from the left sidebar */
+.sidebar-brand {
+  display: none;
+}
+
+/* Portrait images: fixed height, auto width, centered */
+.portrait {
+  height: 2in;
+  width: auto;
+  max-width: none;
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 4px;
+}
