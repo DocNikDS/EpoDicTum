@@ -26,3 +26,27 @@ img {
 .quarto-alternate-formats {
   display: none !important;
 }
+
+/* Cover layout: image on left, text on right */
+.cover-layout {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.cover-layout .cover-image {
+  flex: 0 0 40%;
+  max-width: 40%;
+}
+
+.cover-layout .cover-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.cover-layout .cover-text {
+  flex: 1 1 50%;
+}
