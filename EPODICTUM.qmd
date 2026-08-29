@@ -42,10 +42,10 @@ format:
     urlcolor: blue
 ---
 
-::: {.columns .cover-container}
+::: {.columns style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;"}
 
 ::: {.column width="48%"}
-![](images/cover.png){.cover-img}
+![](images/cover.png){style="width: 100% !important; max-width: 100% !important; height: auto !important; margin: 0 !important; display: block; border-radius: 4px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);"}
 :::
 
 ::: {.column width="48%"}
@@ -55,7 +55,7 @@ First digital edition (v. 1.0) published on 21 August 2026.
 
 **DOI:** [https://doi.org/10.5281/zenodo.22050867](https://doi.org/10.5281/zenodo.22050867)
 
-This book was written in *RStudio* using *Quarto*. The present html version is hosted with *GitHub Pages* on [EpoDicTum](https://github.com/...) and automatically updated after every commit. A print-ready PDF version will be available through *Amazon KDP*.
+This book was written in *RStudio* using *Quarto*. The present html version is hosted with *GitHub Pages* on [EpoDicTum](https://github.com/DocNikDS/EpoDicTum) and automatically updated after every commit. A print-ready PDF version will be available through *Amazon KDP*.
 :::
 
 :::
