@@ -27,16 +27,27 @@ img {
   display: none !important;
 }
 
-/* --- 50/50 Cover Layout Rules --- */
+/* --- 50/50 Cover Layout Rules with Separation Gap --- */
 
 .cover-container {
   display: flex;
   align-items: flex-start;
-  gap: 2rem;
+  gap: 2.5rem; /* Creates the space between the image and the text */
+  margin-top: 1rem;
   margin-bottom: 2rem;
 }
 
-/* Ensures the cover image occupies 100% of its 50% column while preserving aspect ratio */
+/* Ensure the image column respects the boundary */
+.cover-container .column:first-child {
+  padding-right: 1rem;
+}
+
+/* Ensure the text column starts with clean alignment */
+.cover-container .column:last-child {
+  padding-left: 1rem;
+}
+
+/* Cover image styling */
 img.cover-img {
   width: 100% !important;
   max-width: 100% !important;
@@ -44,5 +55,5 @@ img.cover-img {
   margin: 0 !important;
   display: block !important;
   border-radius: 4px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow for ebook depth */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
 }

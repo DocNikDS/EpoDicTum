@@ -44,11 +44,11 @@ format:
 
 ::: {.columns .cover-container}
 
-::: {.column width="50%"}
+::: {.column width="48%"}
 ![](images/cover.png){.cover-img}
 :::
 
-::: {.column width="50%"}
+::: {.column width="48%"}
 © 2026 Nikolai Danilov (@DocNikDS). All rights reserved.
 
 First digital edition (v. 1.0) published on 21 August 2026.
