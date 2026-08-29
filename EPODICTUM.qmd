@@ -42,12 +42,9 @@ format:
     urlcolor: blue
 ---
 
-![](images/cover.png){width=100%}
-© 2026 Nikolai Danilov (@DocNikDS). All rights reserved.
-First digital edition (v. 1.0) published on 21 August 2026.
-**DOI:** https://doi.org/10.5281/zenodo.22050867
-
-This book was written in *RStudio* using *Quarto*. The present html version is hosted with *GitHub Pages* on [EpoDicTum](https://github.com/DocNikDS/EpoDicTum) and automatically updated after every commit. A print-ready PDF version will be available through *Amazon KDP*.
+| | |
+|---|---|
+| ![](images/cover.png){width="100%"} | **© 2026 Nikolai Danilov (@DocNikDS). All rights reserved.** <br><br> First digital edition (v. 1.0) published on 21 August 2026. <br><br> **DOI:** https://doi.org/10.5281/zenodo.22050867 <br><br> This book was written in *RStudio* using *Quarto*. The present html version is hosted with *GitHub Pages* on [EpoDicTum](https://github.com/DocNikDS/EpoDicTum) and automatically updated after every commit. A print-ready PDF version will be available through *Amazon KDP*. |
 
 \newpage
 

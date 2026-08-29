@@ -27,35 +27,33 @@ img {
   display: none !important;
 }
 
-/* Cover layout: image on left, text on right */
-.cover-layout {
-  display: flex !important;
-  flex-wrap: wrap !important;
-  align-items: flex-start !important;
-  gap: 2rem !important;
-  margin: 2rem 0 !important;
+/* Cover layout: image on left, text on right (table-based) */
+.cover-layout table {
+  width: 100%;
+  border: none;
+  border-collapse: collapse;
 }
 
-.cover-image {
-  flex: 0 0 40% !important;
-  max-width: 40% !important;
+.cover-layout td {
+  vertical-align: top;
+  padding: 1rem;
+  border: none;
 }
 
-.cover-image img {
+.cover-layout td:first-child {
+  width: 35%;
+}
+
+.cover-layout td:last-child {
+  width: 65%;
+}
+
+/* Override global img rules for the cover image */
+.cover-layout img {
   width: 100% !important;
+  max-width: none !important;
   height: auto !important;
+  display: block !important;
+  margin: 0 !important;
   border-radius: 4px !important;
-}
-
-.cover-text {
-  flex: 1 1 50% !important;
-  max-width: 50% !important;
-  word-wrap: break-word !important;
-}
-
-.cover-text h1,
-.cover-text h2,
-.cover-text h3,
-.cover-text p {
-  margin-top: 0 !important;
 }
