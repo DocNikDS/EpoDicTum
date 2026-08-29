@@ -15,6 +15,7 @@ format:
     number-sections: false
     css: styles.css
     cover-image: images/cover.png
+    pdf: false
 
   pdf:
     toc: true
