@@ -49,10 +49,13 @@ img {
 
 .cover-text {
   flex: 1 1 50% !important;
+  max-width: 50% !important;
+  word-wrap: break-word !important;
 }
 
 .cover-text h1,
 .cover-text h2,
-.cover-text h3 {
+.cover-text h3,
+.cover-text p {
   margin-top: 0 !important;
 }
