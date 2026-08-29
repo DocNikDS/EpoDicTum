@@ -41,11 +41,11 @@ img {
 }
 
 .cover-layout td:first-child {
-  width: 35%;
+  width: 50%;
 }
 
 .cover-layout td:last-child {
-  width: 65%;
+  width: 50%;
 }
 
 /* Override global img rules for the cover image */
