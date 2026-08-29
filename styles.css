@@ -27,7 +27,7 @@ img {
   display: none !important;
 }
 
-/* --- 50/50 Cover Layout Rules with Separation Gap --- */
+/* --- 1:1 Cover Layout Rules with Separation Gap --- */
 
 .cover-container {
   display: flex;
@@ -56,4 +56,19 @@ img.cover-img {
   display: block !important;
   border-radius: 4px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+/* Ensure Quarto layout grid cells expand images to fill column width */
+.quarto-layout-row .quarto-layout-cell img {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+  border-radius: 4px;
+}
+
+/* Add padding between the cells in the layout row */
+.quarto-layout-row {
+  gap: 2rem;
+  margin-bottom: 2rem;
 }

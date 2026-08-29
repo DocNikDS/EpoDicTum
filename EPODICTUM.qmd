@@ -42,14 +42,12 @@ format:
     urlcolor: blue
 ---
 
-::: {.columns style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;"}
+::: {layout="[48, 48]"}
 
-::: {.column width="48%"}
-![](images/cover.png){style="width: 100% !important; max-width: 100% !important; height: auto !important; margin: 0 !important; display: block; border-radius: 4px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);"}
-:::
+![](images/cover.png){width="100%"}
 
-::: {.column width="48%"}
-© 2026 Nikolai Danilov (@DocNikDS). All rights reserved.
+::: {}
+**© 2026 Nikolai Danilov (@DocNikDS). All rights reserved.**
 
 First digital edition (v. 1.0) published on 21 August 2026.
 
