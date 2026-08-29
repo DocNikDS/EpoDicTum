@@ -47,6 +47,17 @@ img {
   border-radius: 4px;
 }
 
+.cover-layout .cover-image img {
+  display: block;
+  vertical-align: top;
+}
+
+.cover-layout .cover-text {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+
 .cover-layout .cover-text {
   flex: 1 1 50%;
 }
