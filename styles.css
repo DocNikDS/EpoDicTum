@@ -1,6 +1,6 @@
 /* Centers and standardizes image width for the online book */
 img {
-  width: 100%;
+  width: 80%;
   max-width: 800px;
   display: block;
   margin: 1.5rem auto;
