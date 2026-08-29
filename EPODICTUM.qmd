@@ -8,6 +8,8 @@ doi: "10.5281/zenodo.22050867"
 
 format:
   html:
+    output-file: index.html
+    chunk-level: 2
     toc: true
     toc-depth: 3
     number-sections: false
