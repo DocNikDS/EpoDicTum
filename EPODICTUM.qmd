@@ -70,7 +70,7 @@ This book was written in *RStudio* using *Quarto*. The present html version is h
 
 The ***Eponymous Dictionary of Tumors*** is a selective historical-medical reference devoted to eponymous tumor entities and tumor-related concepts that have entered the language of oncology. It is intended for oncologists, pathologists, cancer epidemiologists, historians of medicine, other specialists, and students, who need a compact, reliable guide to the persons behind the names and the entities those names designate.
 
-The dictionary uses the word ***“tumor”*** in a deliberately broad historical-pathological sense: not only malignant and benign neoplasms, but also non-neoplastic space-occupying lesions that have traditionally been called ***tumors***, such as *Pott puffy tumor*.
+The dictionary uses the word ***“tumor”*** in a deliberately broad historical-medical sense: not only malignant and benign neoplasms, but also non-neoplastic space-occupying lesions that have traditionally been called ***tumors***, such as *Pott puffy tumor*.
 
 The dictionary is intended as a living digital publication, designed to be updated and corrected. By bringing together concise, verifiable, and uniquely discriminative definitions, together with biographical notes and, where possible, images, it aims to preserve the eponymic memory in oncology and to make it accessible to contemporary readers without requiring access to expensive proprietary resources.
 
