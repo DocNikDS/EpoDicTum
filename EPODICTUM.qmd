@@ -116,8 +116,10 @@ Thank you for helping us make this book an even more valuable reference resource
 
 **Abbreviations used**
 
-*b.* — born
-*Syn.* — synonym(s)
+|--------|------------|
+| *b.*   | born       |
+-----------------------
+| *Syn.* | synonym(s) |
 
 \newpage
 
