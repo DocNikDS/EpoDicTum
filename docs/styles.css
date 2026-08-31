@@ -27,33 +27,66 @@ img {
   display: none !important;
 }
 
-/* Cover layout: image on left, text on right (table-based) */
-.cover-layout table {
-  width: 100%;
-  border: none;
-  border-collapse: collapse;
+/* --- 1:1 Cover Layout Rules with Separation Gap --- */
+
+.cover-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 2.5rem; /* Creates the space between the image and the text */
+  margin-top: 1rem;
+  margin-bottom: 2rem;
 }
 
-.cover-layout td {
-  vertical-align: top;
-  padding: 1rem;
-  border: none;
+/* Ensure the image column respects the boundary */
+.cover-container .column:first-child {
+  padding-right: 1rem;
 }
 
-.cover-layout td:first-child {
-  width: 35%;
+/* Ensure the text column starts with clean alignment */
+.cover-container .column:last-child {
+  padding-left: 1rem;
 }
 
-.cover-layout td:last-child {
-  width: 65%;
-}
-
-/* Override global img rules for the cover image */
-.cover-layout img {
+/* Cover image styling */
+img.cover-img {
   width: 100% !important;
-  max-width: none !important;
+  max-width: 100% !important;
   height: auto !important;
-  display: block !important;
   margin: 0 !important;
-  border-radius: 4px !important;
+  display: block !important;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+/* Ensure Quarto layout grid cells expand images to fill column width */
+.quarto-layout-row .quarto-layout-cell img {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+  border-radius: 4px;
+}
+
+/* Add padding between the cells in the layout row */
+.quarto-layout-row {
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* Force images and Quarto figure wrappers inside columns to fill column width */
+.column .quarto-figure,
+.column .quarto-figure figure,
+.column .quarto-figure p,
+.column img {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+  display: block !important;
+}
+
+/* Optional: subtle shadow for ebook depth */
+.column img {
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
 }
