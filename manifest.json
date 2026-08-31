@@ -1,0 +1,707 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.6.1",
+  "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "EpoDicInfect_body.qmd",
+    "primary_html": null,
+    "content_category": "site",
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "1.9.38",
+    "engines": ["markdown"]
+  },
+  "packages": null,
+  "files": {
+    ".github/workflows/publish.yml": {
+      "checksum": "5b16ce01eb19088c05d6be69c4b260dd"
+    },
+    ".RData": {
+      "checksum": "8315295cd094f9d422102c8dec0d1e3c"
+    },
+    "_extensions/nmfs-opensci/titlepage/_author-affiliation-themes.tex": {
+      "checksum": "334f389c81ff6c9846910ee80b7e6bfd"
+    },
+    "_extensions/nmfs-opensci/titlepage/_coverpage.tex": {
+      "checksum": "176250e4f4ed500b104cca971ddddbca"
+    },
+    "_extensions/nmfs-opensci/titlepage/_extension.yml": {
+      "checksum": "7db429a8f7b15e212d7b65b2cac86136"
+    },
+    "_extensions/nmfs-opensci/titlepage/_header-footer-date-themes.tex": {
+      "checksum": "83a8dd2a669ceaa77a8a6325f613aae4"
+    },
+    "_extensions/nmfs-opensci/titlepage/_title-themes.tex": {
+      "checksum": "9bc02ab6ca32ef85286e1491a23e76f1"
+    },
+    "_extensions/nmfs-opensci/titlepage/_titlepage.tex": {
+      "checksum": "2830f3fc326eda86ebe3b6e171a7c3fe"
+    },
+    "_extensions/nmfs-opensci/titlepage/before-body.tex": {
+      "checksum": "55c77f346b0ca8ed83d4aed615f12080"
+    },
+    "_extensions/nmfs-opensci/titlepage/coverpage-theme.lua": {
+      "checksum": "63b9191375484898e6ad4f0bb9f72023"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/COPYING-QUALITYPE": {
+      "checksum": "8bb01b04aa5827f475740ba4fdaff379"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/doc/qualitype-doc.pdf": {
+      "checksum": "39c49cecdf7e6ff38987f74930444aab"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/doc/qualitype-doc.tex": {
+      "checksum": "c097e5ab7fdf8325c30e1f6d40c834e5"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTAbbie.otf": {
+      "checksum": "f7c1ddf2131465392a81dcf950a00009"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTAgateType-Bold.otf": {
+      "checksum": "8da169b4329545b266d5d3a6b8ca02fa"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTAgateType-Italic.otf": {
+      "checksum": "85cb231be7756be15b5071e0c4891ea5"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTAgateType.otf": {
+      "checksum": "5eadc4eb428c3c0a746ed1905f85cdc8"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTAncientOlive-Bold.otf": {
+      "checksum": "6d1c73345c88c51d118fd6fa1c8fe63a"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTAncientOlive.otf": {
+      "checksum": "fc552e899d5b8b14c10a1bfe28be18ec"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTAntiquePost.otf": {
+      "checksum": "c2f37f848cbe6013d5f9afc32b33eb12"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTArabian.otf": {
+      "checksum": "707f6872a9ed1767cf98a413f46a58ab"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTArnieB.otf": {
+      "checksum": "c8336d2e9d3c765dd67f9859fd43b556"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTArtiston.otf": {
+      "checksum": "c933b29d68a165b54cefc06c5f3835a9"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTAtchen.otf": {
+      "checksum": "079e64fa577702379097afb89f7d900b"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTAvanti-Italic.otf": {
+      "checksum": "b499d3e71ddf02935748764feaeb3479"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTAvanti.otf": {
+      "checksum": "c4f93d7de54360d3e1f9bae77eddd92a"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBasker-Bold.otf": {
+      "checksum": "af33e699b5b66606642b94170bc2a58b"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBasker-Italic.otf": {
+      "checksum": "3082797a1c01016921d099e2e076e5c3"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBasker.otf": {
+      "checksum": "55c32ed4fd08eae4d542bdb9d91b6d90"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBeckman.otf": {
+      "checksum": "d9c004bdde02dce8224ac6cd1d73d738"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBengal-Bold.otf": {
+      "checksum": "5a8690110a156a5aa73b559dd62266a9"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBengal.otf": {
+      "checksum": "bbb1c0a2f6acf05d91055ff1d9948150"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBlackForest.otf": {
+      "checksum": "a8e601e572714a35050afa9ac9d8f80e"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBlimpo.otf": {
+      "checksum": "3b16f2f1329c4ff902973a2b923dd51d"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBodini-Bold.otf": {
+      "checksum": "4ee63592990b3d3db4fc2811e04a76e6"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBodini-Italic.otf": {
+      "checksum": "4d90b70a05b8d9026a187d4705a7a349"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBodini.otf": {
+      "checksum": "1efb22579fef945994307f54c7ec49a4"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBodiniPoster-Italic.otf": {
+      "checksum": "ab4500cb996d047a527bc0880e5d39e5"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBodiniPoster.otf": {
+      "checksum": "029e0a7e3167f99533084dcd495e24bf"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBookmann-Bold.otf": {
+      "checksum": "5f1d42ca80edc9597dab956e1bf05bad"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBookmann-BoldItalic.otf": {
+      "checksum": "31b28381657654f40a113918affb13cf"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBookmann-Italic.otf": {
+      "checksum": "0a74c98ce450a74037f99bbebf71a23c"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBookmann.otf": {
+      "checksum": "28685a0d091a6728835e7857874ba382"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBoulevard.otf": {
+      "checksum": "09da951af96fda10e4f22b70596335cf"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTBrushStroke.otf": {
+      "checksum": "3c208618f66a7a334b863b9ff1c22ec4"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTCaligulatype.otf": {
+      "checksum": "d86c7320e8bd29e1c23338b2113ed992"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTCanaithtype.otf": {
+      "checksum": "c6273976e39180977f950c1a16acc28d"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTCascadetype.otf": {
+      "checksum": "48eb6a47c3b6cad6e858807fa83b49ec"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTCaslan-Bold.otf": {
+      "checksum": "511f1219de58cecd863a9f0c85574ef1"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTCaslan-BoldItalic.otf": {
+      "checksum": "94dd23a3465bd0726312b2d606c117d7"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTCaslan-Italic.otf": {
+      "checksum": "c551ccdf05d3c52a139e644a522c7132"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTCaslan.otf": {
+      "checksum": "767667c57cc550f4503f9c9394ee165e"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTCaslanOpen.otf": {
+      "checksum": "22dc2bbcc02f8613e71cd8014bbeb577"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTCasual.otf": {
+      "checksum": "f999446e9d1814fda8cbabed8a9a4924"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTChanceryType-Bold.otf": {
+      "checksum": "55b2392ff692a0c4c64f7cccaf014867"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTChanceryType-Italic.otf": {
+      "checksum": "c9f19737e21938b7b2cb76134ea7c1f4"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTChanceryType.otf": {
+      "checksum": "f8992c15caa6bd7de1be21a4c3c27cb1"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTChicagoland.otf": {
+      "checksum": "9ca9b13261e4014a46085890f03fca78"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTClaytablet.otf": {
+      "checksum": "688ec884b02fa65f5275a7ae00d854b2"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTCloisteredMonk.otf": {
+      "checksum": "e7b8acad5a418e407187bf6fb4d217ad"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTCoronation.otf": {
+      "checksum": "2a89e47f3dd54dd29d29db6d567c3cd4"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTDeuce.otf": {
+      "checksum": "d87dbf321a0828187977570fcb32a148"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTDingBits.otf": {
+      "checksum": "56b7bd90d253a698a011549fabfb7e94"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTDoghaus.otf": {
+      "checksum": "78d3f36c4946644d3e2fdbd7ea1c21d1"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTDoghausHeavy.otf": {
+      "checksum": "bd0b55e01072bd86e36602f7cd293780"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTDoghausLight.otf": {
+      "checksum": "154bf664df22f78c574751fdad07b5cb"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTDublinIrish.otf": {
+      "checksum": "fa066080e1b8247cf72eaa1133ae2596"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTEraType-Bold.otf": {
+      "checksum": "d32a2778881df006287d6e92715f4ff9"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTEraType.otf": {
+      "checksum": "149a17748bf78b297297c1519689bb02"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTEurotype-Bold.otf": {
+      "checksum": "bc4f8058677dba72a4184ea88fe01658"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTEurotype.otf": {
+      "checksum": "a3c6ee7962010b72bcbaec2df8fcab39"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTFloraline-Bold.otf": {
+      "checksum": "2fbb85b53a97c58cb195dd750740236e"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTFloraline.otf": {
+      "checksum": "d3d7844aa1b595af0b22a8ce87dbd37e"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTFlorencia.otf": {
+      "checksum": "2852a7bd9203e531c0e9e1c91c6ebb8f"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTFraktur.otf": {
+      "checksum": "41f058350a8b1f202d2284488ecd7416"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTFrank.otf": {
+      "checksum": "cccbfa5ee99d3c452593d10aaf744ee4"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTFrankHeavy.otf": {
+      "checksum": "9b789f37938dda739c0e70e73c58fd56"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTFrizQuad-Bold.otf": {
+      "checksum": "d2447f2d51dbb748743fee5ad200d53c"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTFrizQuad.otf": {
+      "checksum": "f91f3eb0727b351511f2eaaff8e6aaf1"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTFuture-Italic.otf": {
+      "checksum": "5db30c2d0d490abd1dd4249725ee6797"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTFuture.otf": {
+      "checksum": "88c1608efb3f63e2f547843c818f96b4"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTFuturePoster.otf": {
+      "checksum": "c61bbbad8ae860130f79c17fddefc33d"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTGaromand-Bold.otf": {
+      "checksum": "f420d99d573bdad16f460f0db1655f8f"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTGaromand-BoldItalic.otf": {
+      "checksum": "a1913c36d80d5035a3d2f72ac5deed6d"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTGaromand-Italic.otf": {
+      "checksum": "ef14d47be577aef655965dcd99646240"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTGaromand.otf": {
+      "checksum": "e003347898afd082ed71b5cf58c80075"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTGhoulFace.otf": {
+      "checksum": "abcdaa1884203fd1bdebcd4ff9cc8715"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTGraphLite.otf": {
+      "checksum": "66fc21578c07de4b4d58a91574d42178"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTGraveure-Bold.otf": {
+      "checksum": "b5233a8467362355f59916d807e5f520"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTGraveure.otf": {
+      "checksum": "b491e9052e60c022b529402a0a7c3b9d"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTGreece.otf": {
+      "checksum": "2b25927b02858afdaffdd0f89f761061"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTHandwriting.otf": {
+      "checksum": "d0f4473ca20caf88435be36a07ef0b86"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTHeidelbergType.otf": {
+      "checksum": "046b99cde69ecca4bc94db848aec2f20"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTHelvet-Black.otf": {
+      "checksum": "acb9dfc40d4b5390794709ef9f1d1c0d"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTHelvet-BoldOutline.otf": {
+      "checksum": "630ad649c7dc15d93fb9b6967f4b5072"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTHelvetCnd-Black.otf": {
+      "checksum": "1cac604b4fd48882dab0f3ae1fc607d4"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTHelvetCnd-Light.otf": {
+      "checksum": "c188c41672406d433448853312d11afc"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTHelvetCnd.otf": {
+      "checksum": "409d217ca52fc9ad6fada9d95cc06d98"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTHoboken.otf": {
+      "checksum": "485e156ca485037d155eaf7f699ec5c3"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTHowardType.otf": {
+      "checksum": "93e1c9032d41e4c73d72b45235af88fb"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTHowardTypeFat.otf": {
+      "checksum": "9b39d6e59c2bcb19a0e32a4956812c14"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTImpromptu.otf": {
+      "checksum": "9686b27418b17db2e6744de22642a31d"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTJupiter.otf": {
+      "checksum": "1a922343ed42270f89221a11a6b93c8e"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTKooper-Italic.otf": {
+      "checksum": "5f312e50acfd4e813c7c57a960c7be72"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTKooper.otf": {
+      "checksum": "61edf73198617b2326d37f232b8abd6f"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTKorrin-Italic.otf": {
+      "checksum": "ab0638a0132b0ab9a64352887f72f7c3"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTKorrin.otf": {
+      "checksum": "60c08f1fe36bfc936bd0114305416abd"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTKung-Fu.otf": {
+      "checksum": "e9f2fa860475106615aa9b799b0adae5"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTLautrecType.otf": {
+      "checksum": "28bb86bf54a3152dd4ade4907976d9dc"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTLetterGoth-Bold.otf": {
+      "checksum": "4ecce02647e2a23cedf606dd5f97af96"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTLetterGoth-BoldItalic.otf": {
+      "checksum": "49889b45a5e559cbabaf22c831bdfa34"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTLetterGoth-Italic.otf": {
+      "checksum": "5acae0997fe387123eeb25b170f0888c"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTLetterGoth.otf": {
+      "checksum": "ddbe1beb622a02715049518aca228f5a"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTLinoscroll.otf": {
+      "checksum": "69ced6fabeba5af2cb2582032c5bfe26"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTLinostroke.otf": {
+      "checksum": "9347c76048a1935b6191967a7b30a21e"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTLondonScroll.otf": {
+      "checksum": "02a9ed9356edb85c713d433223ad1781"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTMagicMarker.otf": {
+      "checksum": "2084aa0913d545e5acec6dda3787ef1c"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTMerryScript.otf": {
+      "checksum": "e37eae48359ee4963dc7eb9fdf9ed13d"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTMilitary.otf": {
+      "checksum": "f34b932a593724510513e335986127f9"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTOKCorral-Cnd.otf": {
+      "checksum": "402b1bc10705a64ce3a0438359503654"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTOKCorral-Ext.otf": {
+      "checksum": "d36c09d6e34b5257921ad7f995debdf2"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTOKCorral.otf": {
+      "checksum": "fbd18de5bbc99db6263764fb65dd13e0"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTOldGoudy-Bold.otf": {
+      "checksum": "4240b2644cedec3110e5ddbda197ca60"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTOldGoudy-Italic.otf": {
+      "checksum": "8c1e956ec908d1897c12a86a530e86ef"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTOldGoudy.otf": {
+      "checksum": "ad61dd6130fa6ca45a47af0dd4aadaaa"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTOptimum-Bold.otf": {
+      "checksum": "583131536894e729ab1b0948166c1b75"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTOptimum-BoldItalic.otf": {
+      "checksum": "5c074d4bae679b116557effae8f8f798"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTOptimum-Italic.otf": {
+      "checksum": "1573142f35b811e66db8491c05b7565e"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTOptimum.otf": {
+      "checksum": "690e4efa9a4aeb396db0aab5c36aa309"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTPalatine-Bold.otf": {
+      "checksum": "2ee64d17ba631ee76f8fe38d84d642c3"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTPalatine-Italic.otf": {
+      "checksum": "607dae53e383e1d51c50c8710a11c42c"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTPalatine.otf": {
+      "checksum": "b3ee60b06b420fc75b35ca7be9fd96df"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTPandora.otf": {
+      "checksum": "2e03500c01cac65ecf73330a34335384"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTParisFrance.otf": {
+      "checksum": "c20502af9d17a593bf2ae97c81c13c9c"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTPeignoir-Lite.otf": {
+      "checksum": "1ecf88f64c7185a6d20796deb6bda7d7"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTPeignoir.otf": {
+      "checksum": "269fedd2264f879f89d5888e07d6f0a1"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTPiltdown.otf": {
+      "checksum": "b1a39ce597709ce33c9512e6a01e4b83"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTPristine-Bold.otf": {
+      "checksum": "c39147351e8aed3255cf3f424f09ecb7"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTPristine-BoldItalic.otf": {
+      "checksum": "c8a08008b8a8adc66dd852f9386dd53a"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTPristine-Italic.otf": {
+      "checksum": "e12cbd5339ac83e0d6840adb4c44eb7c"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTPristine.otf": {
+      "checksum": "f93b54e4e28530ddaf131a569af50be1"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTRobotic2000.otf": {
+      "checksum": "9e7b82872c2555f1022f0d711be42aa6"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTSanDiego.otf": {
+      "checksum": "e71518a5d2551f35fd124445802a1e06"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTSchoolCentury-Bold.otf": {
+      "checksum": "d08a0aa62eca588b84e02dbff8e6bc71"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTSchoolCentury-BoldItalic.otf": {
+      "checksum": "57c6215fd5adc07b037aeec3893b4120"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTSchoolCentury-Italic.otf": {
+      "checksum": "d6aafb53122f68465372c6d5f003a598"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTSchoolCentury.otf": {
+      "checksum": "22836e911b63f7bbd666d5d934aee2fb"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTSlogantype.otf": {
+      "checksum": "37c4a87dd6b983a6d75b414fffb0f39a"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTSnowCaps.otf": {
+      "checksum": "572766314a65278cc9b209dc38ac18ac"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTStoryTimeCaps.otf": {
+      "checksum": "838ddca660c0a0da798413f041d98012"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTTechtone-Bold.otf": {
+      "checksum": "e5477ace0127d0e95ae240c1b27fab4c"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTTechtone-BoldItalic.otf": {
+      "checksum": "018976fff9b09afae024dcccbfe6a4d8"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTTechtone-Italic.otf": {
+      "checksum": "55995dc04a06e67f13698df872a256f6"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTTechtone.otf": {
+      "checksum": "cbfb87ef8d2cbf50878fb431326cb308"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTTheatre.otf": {
+      "checksum": "49208a01d68f3b8f1c269a332c96470b"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTTimeOutline.otf": {
+      "checksum": "a6812177e6daebf22780475867fd9f27"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTTumbleweed.otf": {
+      "checksum": "f2e61ec18fe5d67835af526fa051428a"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTUSA-Uncial.otf": {
+      "checksum": "313933cfdffbde62f0f04eba9338b7a8"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTVagaRound-Bold.otf": {
+      "checksum": "d1d4ba1a2a3791edf3d2823938573374"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTVagaRound.otf": {
+      "checksum": "70e49a9d4023f78c6ee1b86bae66d66e"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTWeise-Bold.otf": {
+      "checksum": "b43498ad401cba5ac6677aab820a9363"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTWeise-Italic.otf": {
+      "checksum": "7aa488154c1071ed2a01b94856b50518"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTWeise.otf": {
+      "checksum": "aa320f763701f2ccb71bf71334c19e53"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/opentype/QTWestEnd.otf": {
+      "checksum": "0e2cefabcd5c0400f75481a10f7f7179"
+    },
+    "_extensions/nmfs-opensci/titlepage/fonts/qualitype/README": {
+      "checksum": "9857fdb658715f3cac10c5e3ea286e8a"
+    },
+    "_extensions/nmfs-opensci/titlepage/images/corner-bg.png": {
+      "checksum": "7f1cb7f1979cefd9603c2c393a53e472"
+    },
+    "_extensions/nmfs-opensci/titlepage/images/logo.png": {
+      "checksum": "6e1e81bcd5b19966037b1d6bf0252f54"
+    },
+    "_extensions/nmfs-opensci/titlepage/images/nmfs-opensci-logo.png": {
+      "checksum": "f85e5a531f2eed590dc9aaa820089017"
+    },
+    "_extensions/nmfs-opensci/titlepage/images/otter-bar.jpeg": {
+      "checksum": "6a40984b605b38d33a43c1769d644c03"
+    },
+    "_extensions/nmfs-opensci/titlepage/images/ringed-seal.png": {
+      "checksum": "c5a26c40b718a1352977efed5a76740e"
+    },
+    "_extensions/nmfs-opensci/titlepage/images/TheGreatWaveoffKanagawa.jpeg": {
+      "checksum": "e76d3c96479aa77827f860bfbe4a0aec"
+    },
+    "_extensions/nmfs-opensci/titlepage/mathjax.html": {
+      "checksum": "634a09d34aaa23784bc274c94202418d"
+    },
+    "_extensions/nmfs-opensci/titlepage/pandoc.tex": {
+      "checksum": "270f8bfc9fc42a7a78d3b49d2e0ff01d"
+    },
+    "_extensions/nmfs-opensci/titlepage/titlepage-theme.lua": {
+      "checksum": "69a730d4f79963d71300783a2e78747c"
+    },
+    "docs/EpoDicTum_files/libs/bootstrap/bootstrap-efbb37e9afcc02144ebbc7afd12a776f.min.css": {
+      "checksum": "efbb37e9afcc02144ebbc7afd12a776f"
+    },
+    "docs/EpoDicTum_files/libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "886da841d7421705f715f600c5ff11bb"
+    },
+    "docs/EpoDicTum_files/libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "efe54401ef52214fd3b701e23ff88c5f"
+    },
+    "docs/EpoDicTum_files/libs/bootstrap/bootstrap.min.js": {
+      "checksum": "e2b09c06f0e714b6144a6788a28e3950"
+    },
+    "docs/EpoDicTum_files/libs/clipboard/clipboard.min.js": {
+      "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
+    },
+    "docs/EpoDicTum_files/libs/quarto-html/anchor.min.js": {
+      "checksum": "91bcf6cd1fd88fec3f109811e5fc3546"
+    },
+    "docs/EpoDicTum_files/libs/quarto-html/popper.min.js": {
+      "checksum": "3a4a291ccf3f1ea0f82b641542fd3827"
+    },
+    "docs/EpoDicTum_files/libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css": {
+      "checksum": "15634bcf2e68342d4ad2dfa704d543f6"
+    },
+    "docs/EpoDicTum_files/libs/quarto-html/quarto.js": {
+      "checksum": "6f4245742deb3cc92337dbe2701ccfe1"
+    },
+    "docs/EpoDicTum_files/libs/quarto-html/tabsets/tabsets.js": {
+      "checksum": "e8d6a8862b33ccc461f8fd532e05b365"
+    },
+    "docs/EpoDicTum_files/libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "docs/EpoDicTum_files/libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "docs/images/Abrikossoff.jpg": {
+      "checksum": "d5983fd4ed5ca65976929504a96d5c7a"
+    },
+    "docs/images/Beckwith.jpg": {
+      "checksum": "19035629968fab0688ebbcdd864df247"
+    },
+    "docs/images/Brenner.jpg": {
+      "checksum": "9fb053110adabdcf42ff9bb83c6d358a"
+    },
+    "docs/images/Calmette.jpg": {
+      "checksum": "6655857cf01b8a6bcef8a0071fe8026e"
+    },
+    "docs/images/cover.png": {
+      "checksum": "aab789c347c32854bf8f3f05a291c193"
+    },
+    "docs/images/cover_soc-prev.png": {
+      "checksum": "372439a190ff7af18b3d9057ce1dd94a"
+    },
+    "docs/images/Koch.jpg": {
+      "checksum": "260ccded05c13a76324154a1ec75bdf6"
+    },
+    "docs/images/Mantoux.jpg": {
+      "checksum": "2bb20897acf39a9ea3bb86fd682f94ca"
+    },
+    "docs/images/Meigs.jpg": {
+      "checksum": "97d39a7f4f1b5f681f48c808eaeeba97"
+    },
+    "docs/images/Simpson.jpg": {
+      "checksum": "3780cbc130a5c1f9d3570478cea29669"
+    },
+    "docs/images/Warthin.jpg": {
+      "checksum": "b3eb434f23d1f32f7729cb1f3ebfa2de"
+    },
+    "docs/images/Wiedemann.jpg": {
+      "checksum": "c149ce012c45672e8a45c031cf3e057f"
+    },
+    "docs/index.html": {
+      "checksum": "c3278437ca654527333c50bbc94bcddc"
+    },
+    "docs/styles.css": {
+      "checksum": "987526c4930f384eed5531d18bb37111"
+    },
+    "EpoDicInfect_body.qmd": {
+      "checksum": "ec59ef21bd785a8273becd6166bc0994"
+    },
+    "EpoDicTum.qmd": {
+      "checksum": "99d01ac09d23305d992eb0940691f518"
+    },
+    "EpoDicTum_files/libs/bootstrap/bootstrap-efbb37e9afcc02144ebbc7afd12a776f.min.css": {
+      "checksum": "efbb37e9afcc02144ebbc7afd12a776f"
+    },
+    "EpoDicTum_files/libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "886da841d7421705f715f600c5ff11bb"
+    },
+    "EpoDicTum_files/libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "efe54401ef52214fd3b701e23ff88c5f"
+    },
+    "EpoDicTum_files/libs/bootstrap/bootstrap.min.js": {
+      "checksum": "e2b09c06f0e714b6144a6788a28e3950"
+    },
+    "EpoDicTum_files/libs/clipboard/clipboard.min.js": {
+      "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
+    },
+    "EpoDicTum_files/libs/quarto-html/anchor.min.js": {
+      "checksum": "91bcf6cd1fd88fec3f109811e5fc3546"
+    },
+    "EpoDicTum_files/libs/quarto-html/popper.min.js": {
+      "checksum": "3a4a291ccf3f1ea0f82b641542fd3827"
+    },
+    "EpoDicTum_files/libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css": {
+      "checksum": "15634bcf2e68342d4ad2dfa704d543f6"
+    },
+    "EpoDicTum_files/libs/quarto-html/quarto.js": {
+      "checksum": "6f4245742deb3cc92337dbe2701ccfe1"
+    },
+    "EpoDicTum_files/libs/quarto-html/tabsets/tabsets.js": {
+      "checksum": "e8d6a8862b33ccc461f8fd532e05b365"
+    },
+    "EpoDicTum_files/libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "EpoDicTum_files/libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "images/Abrikossoff.jpg": {
+      "checksum": "d5983fd4ed5ca65976929504a96d5c7a"
+    },
+    "images/Beckwith.jpg": {
+      "checksum": "19035629968fab0688ebbcdd864df247"
+    },
+    "images/Brenner.jpg": {
+      "checksum": "9fb053110adabdcf42ff9bb83c6d358a"
+    },
+    "images/Calmette.jpg": {
+      "checksum": "6655857cf01b8a6bcef8a0071fe8026e"
+    },
+    "images/cover.png": {
+      "checksum": "aab789c347c32854bf8f3f05a291c193"
+    },
+    "images/cover_soc-prev.png": {
+      "checksum": "372439a190ff7af18b3d9057ce1dd94a"
+    },
+    "images/Koch.jpg": {
+      "checksum": "260ccded05c13a76324154a1ec75bdf6"
+    },
+    "images/Mantoux.jpg": {
+      "checksum": "2bb20897acf39a9ea3bb86fd682f94ca"
+    },
+    "images/Meigs.jpg": {
+      "checksum": "97d39a7f4f1b5f681f48c808eaeeba97"
+    },
+    "images/Simpson.jpg": {
+      "checksum": "3780cbc130a5c1f9d3570478cea29669"
+    },
+    "images/Warthin.jpg": {
+      "checksum": "b3eb434f23d1f32f7729cb1f3ebfa2de"
+    },
+    "images/Wiedemann.jpg": {
+      "checksum": "c149ce012c45672e8a45c031cf3e057f"
+    },
+    "index.html": {
+      "checksum": "c3278437ca654527333c50bbc94bcddc"
+    },
+    "README.md": {
+      "checksum": "e3ac95b09e6d906f87d8709675f27363"
+    },
+    "styles.css": {
+      "checksum": "987526c4930f384eed5531d18bb37111"
+    }
+  },
+  "users": null
+}
