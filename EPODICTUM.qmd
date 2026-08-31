@@ -109,6 +109,7 @@ This is an evolving digital-publishing project, and with your help we can make i
 **Abbreviations used**
 
 *b.*: born
+
 *Syn.*: synonym(s)
 
 \newpage
