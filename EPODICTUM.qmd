@@ -74,7 +74,7 @@ The dictionary uses the word ***"tumor"*** in a deliberately broad, etymological
 
 **Scope and selectivity**
 
-EpoDicTum is intentionally selective. It includes only those eponyms that belong explicitly and recognizably to the core domain of oncology, though in its broadest sense. Eponyms that belong primarily to other disciplines, or that are only loosely connected with tumors, are not included unless their tumor connection is central.
+*EpoDicTum* is intentionally selective. It includes only those eponyms that belong explicitly and recognizably to the core domain of oncology, though in its broadest sense. Eponyms that belong primarily to other disciplines, or that are only loosely connected with tumors, are not included unless their tumor connection is central.
 
 **Congenital/hereditary syndromes**
 
@@ -88,11 +88,11 @@ Whenever possible, the places of birth and death of a person are given along wit
 
 **Personal identity**
 
-A person's origin and professional identity are stated neutrally and very briefly. EpoDicTum follows, wherever feasible, both an ethnic and modern nation-state approach (e.g., *Jewish American physician*). Although this may sound anachronistic, it provides a consistent practical framework for categorizing historical figures in a way that is accessible to contemporary readers and avoids shifting attention and credit from national to imperial identities, thus preserving cultural diversity as opposed to the earlier imperial-colonial generalization.
+A person's origin and professional identity are stated neutrally and very briefly. *EpoDicTum* follows, wherever feasible, both an ethnic and modern nation-state approach (e.g., *Jewish American physician*). Although this may sound anachronistic, it provides a consistent practical framework for categorizing historical figures in a way that is accessible to contemporary readers and avoids shifting attention and credit from national to imperial identities, thus preserving cultural diversity as opposed to the earlier imperial-colonial generalization.
 
 **Alphabetization and particles**
 
-In EpoDicTum, possessive case (i.e., *'s*) or nobiliary prefix particles in complex surnames (e.g., *de*, *d'*, *di*, *von*, *van*, etc.) are disregarded in both the entry headings and the alphabetical order of surnames in the Index of personalia. Thus, to locate a dictionary entry, one should search by the core surname itself (e.g., *ROKITANSKY*, not *VON ROKITANSKY*).
+In *EpoDicTum*, possessive case (*'s*) or nobiliary prefix particles in complex surnames (e.g., *de*, *d'*, *di*, *von*, *van*, etc.) are disregarded in both the entry headings and the alphabetical order of surnames in the Index of personalia. Thus, to locate a dictionary entry, one should search by the core surname itself (e.g., *ROKITANSKY*, not *VON ROKITANSKY*).
 
 **Hyphenation of given names**
 
@@ -104,12 +104,11 @@ Unless otherwise noted, the images in this dictionary are used under *Public Dom
 
 **Feedback from readers**
 
-This is an evolving digital-publishing project, and with your help we can make it even better. Your feedback, proposals for improvement, or other relevant terms that are not yet included in the current version of EpoDicTum are welcome at the compiler's email: ***danilov.md@gmail.com***. Please feel free to be as terse or detailed as you see fit. All feedback is kept private, but you can choose to leave your real name and affiliation so we can mention you in our Acknowledgements section. Thank you for helping make this book an even more valuable reference resource for our readers' community.
+This is an evolving digital-publishing project, and with your help we can make it even better. Your feedback, proposals for improvement, or other relevant terms that are not yet included in the current version of *EpoDicTum* are welcome at the compiler's email: ***danilov.md@gmail.com***. All feedback is kept private, but you can choose to leave your real name and affiliation so we can mention you in our Acknowledgements section. Thank you for helping make this book an even more valuable reference resource for our readers' community.
 
 **Abbreviations used**
 
 *b.*: born
-
 *Syn.*: synonym(s)
 
 \newpage
