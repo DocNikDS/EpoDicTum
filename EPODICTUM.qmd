@@ -100,7 +100,7 @@ In this dictionary, all component elements of a person's given name are connecte
 
 **Images**
 
-Unless otherwise noted, the images in this dictionary are used under *Public Domain or Creative Commons Zero (PD/CC0)* licenses. We gratefully acknowledge the contributors to repositories for supporting global open-access education.
+Unless otherwise noted, the images in this dictionary are used under Public Domain or public-domain-equivalent licenses. We gratefully acknowledge the contributors to repositories for supporting global open-access education.
 
 **Feedback from readers**
 
@@ -145,6 +145,8 @@ Generally benign ovarian epithelial neoplasm.
 ## CALL {#sec-call}
 
 ### Call-Exner bodies
+
+Characteristic histopathological structures of granulosa cell tumors of the gonads.
 
 \newpage
 
