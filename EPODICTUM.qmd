@@ -59,7 +59,7 @@ First digital edition (v. 1.0) published on 21 August 2026.
 
 **DOI:** [https://doi.org/10.5281/zenodo.22050867](https://doi.org/10.5281/zenodo.22050867)
 
-This book was written in *RStudio* using *Quarto*. The present HTML version is hosted on *Posit Connect Cloud* at [EpoDicTum](https://docnikds-epodictum.share.connect.posit.cloud/) and is automatically updated after every commit. A print-ready PDF version will be available through *Amazon Kindle Direct Publishing*.
+This book was written in *RStudio* using *Quarto* and *R*.  The present HTML version is hosted on *Posit Connect Cloud* at [EpoDicTum](https://docnikds-epodictum.share.connect.posit.cloud/) and is automatically updated after every commit. A print-ready PDF version will be available through *Amazon Kindle Direct Publishing*.
 :::
 
 :::
@@ -116,7 +116,7 @@ This is an evolving digital-publishing project, and with your help we can make i
 
 # A
 
-## ABRIKOSSOFF [ABRIKOSOV]
+## ABRIKOSSOFF [ABRIKOSOV] {#sec-abrikossoff}
 
 ![](images/Abrikossoff.jpg){.portrait}
 ***Aleksey Ivanovich Abrikossoff [Abrikosov]*** (18 Jan 1875, Moscow, Russia - 9 Apr 1955, Мoscow, Russia) - Russian pathologist.
@@ -129,7 +129,7 @@ Syn.: granular cell tumor. Benign neoplasm of skin.
 
 # B
 
-## BRENNER
+## BRENNER {#sec-brenner}
 
 ![](images/Brenner.jpg){.portrait}
 ***Fritz Brenner*** (16 Dec 1877, Osthofen, Germany – 26 Dec 1969, Johannesburg, South Africa) - German physician and pathologist.
@@ -142,13 +142,13 @@ Generally benign ovarian epithelial neoplasm.
 
 # C
 
-## CALL
+## CALL {#sec-call}
 
 ### Call-Exner bodies
 
 \newpage
 
-## COLEY
+## COLEY {#sec-coley}
 
 ### Coley toxins
 
@@ -158,7 +158,7 @@ Syn.: Coley vaccine.
 
 # D
 
-## DEMONS
+## DEMONS {#sec-demons}
 
 Jean-Octave-Albert Demons (1842-1920)
 
@@ -168,7 +168,7 @@ Jean-Octave-Albert Demons (1842-1920)
 
 # E
 
-## EXNER
+## EXNER {#sec-exner}
 
 ### Call–Exner bodies
 
@@ -200,7 +200,7 @@ See CALL
 
 \newpage
 
-## KRUKENBERG
+## KRUKENBERG {#sec-krukenberg}
 
 ### Krukenberg tumor
 
@@ -208,7 +208,7 @@ See CALL
 
 # L
 
-## LEYDIG
+## LEYDIG {#sec-leydig}
 
 ### Leydig cell tumor
 
@@ -218,13 +218,13 @@ See CALL
 
 # M
 
-## MAFFUCCI
+## MAFFUCCI {#sec-maffucci}
 
 ### Maffucci syndrome
 
 \newpage
 
-## MEIGS
+## MEIGS {#sec-meigs}
 
 ![](images/Meigs.jpg){.portrait}
 Joe Vincent Meigs (1892-1963)
@@ -235,7 +235,7 @@ See DEMONS
 
 \newpage
 
-## MERKEL
+## MERKEL {#sec-merkel}
 
 ### Merkel cell carcinoma
 
@@ -247,7 +247,7 @@ See DEMONS
 
 # O
 
-## OLLIER
+## OLLIER {#sec-ollier}
 
 ### Ollier disease
 
@@ -255,13 +255,13 @@ See DEMONS
 
 # P
 
-## PERLMAN
+## PERLMAN {#sec-perlman}
 
 ### Perlman syndrome
 
 \newpage
 
-## POTT
+## POTT {#sec-pott}
 
 Percivall Pott (6 Jan 1714, London, UK – 22 December 1788) - English surgeon.
 
@@ -275,13 +275,13 @@ Percivall Pott (6 Jan 1714, London, UK – 22 December 1788) - English surgeon.
 
 # R
 
-## REINKE
+## REINKE {#sec-reinke}
 
 ### Reinke crystalloids
 
 \newpage
 
-## ROSEN
+## ROSEN {#sec-rosen}
 
 ### Simpson–Golabi–Behmel syndrome (SGBS)
 
@@ -291,7 +291,7 @@ Syn.: Golabi-Rosen syndrome. See BEHMEL.
 
 # S
 
-## SERTOLI
+## SERTOLI {#sec-sertoli}
 
 ### Leydig-Sertoli cell tumor
 
@@ -299,7 +299,7 @@ See LEYDIG.
 
 \newpage
 
-## SCHWANN
+## SCHWANN {#sec-schwann}
 
 ### Schwannoma
 
@@ -321,7 +321,7 @@ Also: Schwann cells.
 
 # W
 
-## WARTHIN
+## WARTHIN {#sec-warthin}
 
 ![](images/Warthin.jpg){.portrait}
 ***Aldred Scott Warthin*** (21 Oct 1866, Greensburg, Indiana, US - 23 May 1931, Ann Arbor, Michigan, US) - American pathologist, the father of cancer genetics.
@@ -332,13 +332,13 @@ Syn.: cystadenoma lymphomatosum papilliferum; [cyst]adenolymphoma. Benign neopla
 
 \newpage
 
-## WERNER
+## WERNER {#sec-werner}
 
 ### Werner syndrome
 
 \newpage
 
-## WILMS
+## WILMS {#sec-wilms}
 
 ### Wilms tumor
 
@@ -357,3 +357,33 @@ Syn.: cystadenoma lymphomatosum papilliferum; [cyst]adenolymphoma. Benign neopla
 \newpage
 
 # Index of personalia
+
+```{r}
+#| echo: false
+#| results: asis
+
+# Read the current file
+lines <- readLines("EpoDicTum.qmd")
+
+# Find all lines that start with "## " (entry headings)
+headings <- grep("^## ", lines, value = TRUE)
+
+# Extract the heading text (remove the "## " prefix)
+surnames <- sub("^## ", "", headings)
+
+# Remove any trailing {#sec-...} so we get clean display names
+display_names <- sub("\\s*\\{#sec-.*\\}$", "", surnames)
+
+# Extract the IDs: assume they are present as {#sec-...}
+# If not present, we'll warn or use a fallback
+ids <- regmatches(surnames, regexpr("(?<=\\{#sec-)[^}]+", surnames, perl = TRUE))
+
+# If some entries lack IDs, skip them with a warning
+if (length(ids) == 0) {
+  cat("**Warning:** No `{#sec-...}` IDs found. Please add them to each entry heading.\n")
+} else {
+  # Build the Markdown list
+  cat(paste0("- [", display_names, "](#sec-", ids, ")", collapse = "\n"))
+}
+```
+
