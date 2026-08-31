@@ -363,7 +363,7 @@ Syn.: cystadenoma lymphomatosum papilliferum; [cyst]adenolymphoma. Benign neopla
 #| results: asis
 
 # Read the current file
-lines <- readLines("EpoDicTum.qmd")
+lines <- readLines("EPODICTUM.qmd")
 
 # Find all lines that start with "## " (entry headings)
 headings <- grep("^## ", lines, value = TRUE)
