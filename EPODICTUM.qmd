@@ -118,7 +118,7 @@ This is an evolving digital-publishing project, and with your help we can make i
 
 ## ABRIKOSSOFF [ABRIKOSOV] {#sec-abrikossoff}
 
-![](images/Abrikossoff.jpg){.portrait}
+![](images/abrikossoff.jpg){.portrait}
 ***Aleksey Ivanovich Abrikossoff [Abrikosov]*** (18 Jan 1875, Moscow, Russia - 9 Apr 1955, Мoscow, Russia) - Russian pathologist.
 
 ### Abrikossoff tumor
@@ -131,7 +131,7 @@ Syn.: granular cell tumor. Benign neoplasm of skin.
 
 ## BRENNER {#sec-brenner}
 
-![](images/Brenner.jpg){.portrait}
+![](images/brenner.jpg){.portrait}
 ***Fritz Brenner*** (16 Dec 1877, Osthofen, Germany – 26 Dec 1969, Johannesburg, South Africa) - German physician and pathologist.
 
 ### Brenner tumor
@@ -144,9 +144,14 @@ Generally benign ovarian epithelial neoplasm.
 
 ## CALL {#sec-call}
 
+![](images/call.jpg){.portrait}
+Emma Louise Call (1847-1937) was an American physician, and one of the first female physicians in the United States. the first female member of the Massachusetts State Medical Society
+
 ### Call-Exner bodies
 
 Characteristic histopathological structures of granulosa cell tumors of the gonads.
+
+Call, E. L., & Exner, S. (1875). Zur Kenntniss des Graafschen Follikels und des Corpus luteum beim Kaninchen [On the knowledge of the Graafian follicle and the corpus luteum in the rabbit]. Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften. Mathematisch-Naturwissenschaftliche Classe, 72, 321–328.
 
 \newpage
 
@@ -228,7 +233,7 @@ See CALL
 
 ## MEIGS {#sec-meigs}
 
-![](images/Meigs.jpg){.portrait}
+![](images/meigs.jpg){.portrait}
 Joe Vincent Meigs (1892-1963)
 
 ### Demons-Meigs syndrome
@@ -325,7 +330,7 @@ Also: Schwann cells.
 
 ## WARTHIN {#sec-warthin}
 
-![](images/Warthin.jpg){.portrait}
+![](images/warthin.jpg){.portrait}
 ***Aldred Scott Warthin*** (21 Oct 1866, Greensburg, Indiana, US - 23 May 1931, Ann Arbor, Michigan, US) - American pathologist, the father of cancer genetics.
 
 ### Warthin tumor
