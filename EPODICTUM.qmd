@@ -72,7 +72,7 @@ A person's origin and professional identity are stated neutrally and very briefl
 
 **Alphabetization and particles**
 
-In *EpoDicTum*, possessive case (*'s*) or nobiliary prefix particles in complex surnames (e.g., *de*, *d'*, *di*, *von*, *van*, etc.) are disregarded in both the entry headings and the alphabetical order of surnames in the Index of personalia. Thus, to locate a dictionary entry, one should search by the core surname itself (e.g., *ROKITANSKY*, not *VON ROKITANSKY*).
+In *EpoDicTum*, possessive case (*'s*) or nobiliary prefix particles in complex surnames (e.g., *de*, *d'*, *di*, *von*, *van*, etc.) are disregarded in both the entry headings and the alphabetical order of surnames in the Index of personalia. Thus, to locate a dictionary entry, one should search by the core surname itself (e.g., *HIPPEL*, not *VON HIPPEL*, although *von Hippel–Lindau syndrome*).
 
 **Hyphenation of given names**
 
@@ -109,6 +109,12 @@ Syn.: granular cell tumor. Benign neoplasm of skin.
 
 # B
 
+## BLOOM {#sec-bloom}
+
+### Bloom syndrome
+
+\newpage
+
 ## BRENNER {#sec-brenner}
 
 ![](images/brenner.jpg){.portrait}
@@ -117,6 +123,12 @@ Syn.: granular cell tumor. Benign neoplasm of skin.
 ### Brenner tumor
 
 Generally benign ovarian epithelial neoplasm.
+
+\newpage
+
+## BURKITT {#sec-burkitt}
+
+### Burkitt lymphoma
 
 \newpage
 
@@ -143,6 +155,12 @@ Syn.: Coley vaccine.
 
 \newpage
 
+## COWDEN
+
+### Cowden syndrome
+
+\newpage
+
 # D
 
 ## DEMONS {#sec-demons}
@@ -155,23 +173,47 @@ Jean-Octave-Albert Demons (1842-1920)
 
 # E
 
+## EATON {#sec-eaton}
+
+### Lambert–Eaton syndrome
+
+\newpage
+
 ## EXNER {#sec-exner}
 
 ### Call–Exner bodies
 
-See CALL
+See CALL.
 
 \newpage
 
 # F
 
+## FANCONI {#sec-fanconi}
+
+### Fanconi anemia
+
 \newpage
 
 # G
 
+## GORLIN {#sec-gorlin}
+
+### Gorlin syndrome
+
 \newpage
 
 # H
+
+## HIPPEL {#sec-hippel}
+
+### von Hippel–Lindau syndrome
+
+\newpage
+
+## HORNER {#sec-horner}
+
+### Horner syndrome
 
 \newpage
 
@@ -185,6 +227,10 @@ See CALL
 
 # K
 
+## KAPOSI
+
+### Kaposi sarcoma
+
 \newpage
 
 ## KRUKENBERG {#sec-krukenberg}
@@ -195,6 +241,12 @@ See CALL
 
 # L
 
+## LAMBERT {#sec-lambert}
+
+### Lambert–Eaton syndrome
+
+\newpage
+
 ## LEYDIG {#sec-leydig}
 
 ### Leydig cell tumor
@@ -202,6 +254,12 @@ See CALL
 ### Leydig-Sertoli cell tumor
 
 \newpage
+
+## LINDAU {#sec-lindau}
+
+### von Hippel–Lindau syndrome
+
+See HIPPEL.
 
 # M
 
