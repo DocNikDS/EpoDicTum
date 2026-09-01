@@ -59,7 +59,7 @@ First digital edition (v. 1.0) published on 21 August 2026.
 
 **DOI:** [https://doi.org/10.5281/zenodo.22050867](https://doi.org/10.5281/zenodo.22050867)
 
-This book was written in *RStudio* using *Quarto* and *R*.  The present HTML version is hosted on *Posit Connect Cloud* at [EpoDicTum](https://docnikds-epodictum.share.connect.posit.cloud/) and is automatically updated after every commit. A print-ready PDF version will be available through *Amazon Kindle Direct Publishing*.
+This book was written in *RStudio* using *Quarto* and *R*.  The present HTML version is hosted on *Posit Connect Cloud* at [EpoDicTum](https://docnikds-epodictum.share.connect.posit.cloud/) and is automatically updated after every commit.
 :::
 
 :::
