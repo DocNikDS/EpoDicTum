@@ -1,12 +1,12 @@
 name: epodictum
-title: Epodictum
+title: EpoDicTum
 username: docnikds
 account: docnikds
 server: connect.posit.cloud
 hostUrl: https://api.connect.posit.cloud/v1
-appId: 01a05965-f39b-25d8-efb2-690c6cbd899a
+appId: 01a0598d-2f5e-b37f-b390-d552c8c5fd99
 bundleId:
-url: https://connect.posit.cloud/docnikds/content/01a05965-f39b-25d8-efb2-690c6cbd899a
+url: https://connect.posit.cloud/docnikds/content/01a0598d-2f5e-b37f-b390-d552c8c5fd99
 version: 1
 quarto_version: 1.9.38
 quarto_engines: knitr
