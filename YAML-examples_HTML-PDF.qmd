@@ -1,0 +1,43 @@
+---
+title: "EPONYMOUS DICTIONARY OF TUMORS"
+subtitle: "v. 1.0"
+author: "Nikolai Danilov, MD, MPH"
+date: today
+date-format: "D MMMM YYYY"
+doi: "10.5281/zenodo.22050867"
+
+format:
+  html:
+    output-file: index.html
+    chunk-level: 2
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    css: styles.css
+    cover-image: images/cover.png
+    pdf: false
+    resources:
+      - styles.css
+      - images/
+
+  pdf:
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    papersize: "6in x 9in"
+    fontsize: 12pthttps://connect.posit.cloud/docnikds
+    geometry:
+      - top=0.75in
+      - bottom=0.75in
+      - left=1in
+      - right=0.75in
+    classoption:
+      - DIV=11        # Adjusts text area proportion
+      - BCOR=0.25in   # Binding correction (extra inner margin)
+    cover-image: images/cover.png
+    fig-height: 2
+    fig-align: center
+    colorlinks: true
+    linkcolor: blue
+    urlcolor: blue
+---

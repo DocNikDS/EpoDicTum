@@ -19,27 +19,6 @@ format:
     resources:
       - styles.css
       - images/
-
-  pdf:
-    toc: true
-    toc-depth: 3
-    number-sections: false
-    papersize: "6in x 9in"
-    fontsize: 12pt
-    geometry:
-      - top=0.75in
-      - bottom=0.75in
-      - left=1in
-      - right=0.75in
-    classoption:
-      - DIV=11        # Adjusts text area proportion
-      - BCOR=0.25in   # Binding correction (extra inner margin)
-    cover-image: images/cover.png
-    fig-height: 2
-    fig-align: center
-    colorlinks: true
-    linkcolor: blue
-    urlcolor: blue
 ---
 
 ::: {.columns}
