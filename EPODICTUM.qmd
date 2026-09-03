@@ -67,7 +67,7 @@ Whenever possible, the places of birth and death of a person are given along wit
 
 **Images.** Unless otherwise noted, the images in this dictionary are used under Public Domain or public-domain-equivalent licenses. We gratefully acknowledge the contributors to repositories for supporting global open-access education.
 
-**Feedback from readers.** This is an evolving digital-publishing project, and with your help we can make it even better. Your feedback, proposals for improvement, or other relevant terms that are not yet included in the current version of *EpoDicTum* are welcome at the compiler's email: ***danilov.md@gmail.com***. All feedback is kept private, but you can choose to leave your real name and affiliation so we can mention you in our Acknowledgements section. Thank you for helping make this book an even more valuable reference resource for our readers' community.
+**Feedback from readers.** This is an evolving digital-publishing project, and with your help we can make it even better. Your feedback, proposals for improvement, or other relevant terms that are not yet included in the current version of *Epodictum* are welcome at the compiler's email: ***danilov.md@gmail.com***. All feedback is kept private, but you can choose to leave your real name and affiliation so we can mention you in our Acknowledgements section. Thank you for helping make this book an even more valuable reference resource for our readers' community.
 
 **Abbreviations used**
 
@@ -92,6 +92,12 @@ Syn.: granular cell tumor. Benign neoplasm of skin.
 
 # B
 
+## BARR {#sec-barr}
+
+### Epstein–Barr virus
+
+\newpage
+
 ## BLOOM {#sec-bloom}
 
 ### Bloom syndrome
@@ -111,7 +117,14 @@ Generally benign ovarian epithelial neoplasm.
 
 ## BURKITT {#sec-burkitt}
 
-### Burkitt lymphoma
+![](images/burkitt.jpg){.portrait}
+***Denis-Parsons Burkitt*** (28 Feb 1911, Enniskillen, Northern Ireland, UK – 23 Mar 1993, Gloucester, England, UK) - Irish British surgeon.
+
+### Burkitt lymphoma/leukaemia
+
+Syn.: Burkitt tumor. B-cell lymphoid malignancy.
+
+*Burkitt, D. (1958). A sarcoma involving the jaws in African children. The British Journal of Surgery, 46(197), 218–223. https://doi.org/10.1002/bjs.18004619704*
 
 \newpage
 
@@ -120,13 +133,13 @@ Generally benign ovarian epithelial neoplasm.
 ## CALL {#sec-call}
 
 ![](images/call.jpg){.portrait}
-Emma Louise Call (1847-1937) was an American physician-obstetrician, and one of the first female physicians in the United States. the first female member of the Massachusetts State Medical Society
+***Emma Louise Call*** (1847, Newburyport, Massachusetts, US - 1937, US) - American physician-obstetrician, one of the first female physicians in the United States.
 
 ### Call-Exner bodies
 
 Characteristic histopathological structures of granulosa cell tumors of the gonads.
 
-Call, E. L., & Exner, S. (1875). Zur Kenntniss des Graafschen Follikels und des Corpus luteum beim Kaninchen [On the knowledge of the Graafian follicle and the corpus luteum in the rabbit]. Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften. Mathematisch-Naturwissenschaftliche Classe, 72, 321–328.
+*Call, E. L., & Exner, S. (1875). Zur Kenntniss des Graafschen Follikels und des Corpus luteum beim Kaninchen [On the knowledge of the Graafian follicle and the corpus luteum in the rabbit]. Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften. Mathematisch-Naturwissenschaftliche Classe, 72, 321–328.*
 
 \newpage
 
@@ -167,6 +180,12 @@ Jean-Octave-Albert Demons (1842-1920)
 ### Call–Exner bodies
 
 See CALL.
+
+\newpage
+
+## EPSTEIN {#sec-epstein}
+
+### Epstein–Barr virus
 
 \newpage
 
